@@ -1,0 +1,45 @@
+name: Generate AdAway block hosts file
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  transfer:
+    runs-on: ubuntu-latest
+
+    env:
+      UPSTREAM_REPO_NAME: "privacy-protection-tools/anti-AD"
+      UPSTREAM_REPO_REF: "master"
+      UPSTREAM_REPO_PATH: "/tmp/anti-AD"
+
+    steps:
+      - name: Checkout self repo
+        uses: actions/checkout@v3
+
+      - name: Checkout upstream repo
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ env.UPSTREAM_REPO_NAME }}
+          ref: ${{ env.UPSTREAM_REPO_REF }}
+          path: ${{ env.UPSTREAM_REPO_PATH }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+
+      - name: Transfer file
+        run: |
+          python transfer.py ${{ env.UPSTREAM_REPO_PATH }}/anti-ad-domains.txt
+
+      - name: Get head commit sha of upstream repo
+        id: get-head-sha
+        run:
+          echo "head_sha=$(cd ${{ env.UPSTREAM_REPO_PATH }} && git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add anti-ad-adaway.txt
+          git commit -m "Sync with upstream ${{ env.UPSTREAM_REPO_NAME }}@${{ steps.get-head-sha.outputs.head_sha }}"
