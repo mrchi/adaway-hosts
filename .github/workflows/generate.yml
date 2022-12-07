@@ -13,6 +13,7 @@ jobs:
       UPSTREAM_REPO_NAME: "privacy-protection-tools/anti-AD"
       UPSTREAM_REPO_REF: "master"
       UPSTREAM_REPO_PATH: "${{ github.workspace }}/upstream"
+      OUTPUT_FILE_NAME: "anti-ad-adaway.txt"
 
     steps:
       - name: Checkout self repo
@@ -30,19 +31,21 @@ jobs:
 
       - name: Transfer file
         run: |
-          python transfer.py ${{ env.UPSTREAM_REPO_PATH }}/anti-ad-domains.txt
+          python transfer.py ${{ env.UPSTREAM_REPO_PATH }}/anti-ad-domains.txt ${{ env.OUTPUT_FILE_NAME }}
 
       - name: Get head commit sha of upstream repo
         id: get-head-sha
-        run:
+        run: |
           echo "head_sha=$(cd ${{ env.UPSTREAM_REPO_PATH }} && git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add anti-ad-adaway.txt
-          git commit -m "Sync with upstream ${{ env.UPSTREAM_REPO_NAME }}@${{ steps.get-head-sha.outputs.head_sha }}"
+          git add ${{ env.OUTPUT_FILE_NAME }}
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Sync with upstream ${{ env.UPSTREAM_REPO_NAME }}@${{ steps.get-head-sha.outputs.head_sha }}"
+          fi
 
       - name: Push changes
         uses: ad-m/github-push-action@master

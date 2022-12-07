@@ -20,5 +20,5 @@ def transfer(input_file: pathlib.Path, output_file: pathlib.Path):
 if __name__ == "__main__":
     transfer(
         input_file=pathlib.Path(sys.argv[1]),
-        output_file=pathlib.Path(__file__).parent / "anti-ad-adaway.txt",
+        output_file=pathlib.Path(sys.argv[2]),
     )
