@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230105023755
+#VER=20230106152442
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=64806
+#TOTAL_LINES=64799
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -639,6 +639,7 @@
 127.0.0.1 photo.188kc.cn
 127.0.0.1 188server.com
 127.0.0.1 188xiaoba.net
+127.0.0.1 webwebfenxi.189.cn
 127.0.0.1 189zj.cn
 127.0.0.1 www.189zj.cn
 127.0.0.1 18a8f5a1c1.com
@@ -9816,10 +9817,8 @@
 127.0.0.1 push.zhanzhang.baidu.com
 127.0.0.1 qapm.baidu.com
 127.0.0.1 sclick.baidu.com
-127.0.0.1 sfp.safe.baidu.com
 127.0.0.1 share.baidu.com
 127.0.0.1 sjh.baidu.com
-127.0.0.1 sofire.baidu.com
 127.0.0.1 static1.searchbox.baidu.com
 127.0.0.1 tcbox.baidu.com
 127.0.0.1 techain.baidu.com
@@ -19849,7 +19848,6 @@
 127.0.0.1 g.wan.douyu.com
 127.0.0.1 club-img.douyucdn.cn
 127.0.0.1 cs-op.douyucdn.cn
-127.0.0.1 gift.douyucdn.cn
 127.0.0.1 rtbapi.douyucdn.cn
 127.0.0.1 dotcounter.douyutv.com
 127.0.0.1 dovemajorem.com
@@ -21719,7 +21717,6 @@
 127.0.0.1 erosadv.com
 127.0.0.1 erosionexception.com
 127.0.0.1 erosyndc.com
-127.0.0.1 eroterest.net
 127.0.0.1 erotikdating.com
 127.0.0.1 erotizer.info
 127.0.0.1 erovation.com
@@ -34483,7 +34480,6 @@
 127.0.0.1 lijtfkmmiisrli.xyz
 127.0.0.1 mjf.lijun8.com
 127.0.0.1 stats.lik.fr
-127.0.0.1 button.like.co
 127.0.0.1 likeads.com
 127.0.0.1 likebtn.com
 127.0.0.1 likecontrol.com
@@ -37735,7 +37731,6 @@
 127.0.0.1 hz.mmstat.com
 127.0.0.1 p3p.mmstat.com
 127.0.0.1 res.mmstat.com
-127.0.0.1 wgo.mmstat.com
 127.0.0.1 yt.mmstat.com
 127.0.0.1 mmtro.com
 127.0.0.1 j.mmtu.top
@@ -56932,7 +56927,6 @@
 127.0.0.1 urlat.cn
 127.0.0.1 urlbrief.com
 127.0.0.1 urlcash.net
-127.0.0.1 urldefense.com
 127.0.0.1 urldelivery.com
 127.0.0.1 urlet.cn
 127.0.0.1 x0r.urlgalleries.net
@@ -62453,7 +62447,6 @@
 127.0.0.1 a.youdao.com
 127.0.0.1 clkservice.youdao.com
 127.0.0.1 b.clkservice.youdao.com
-127.0.0.1 c.youdao.com
 127.0.0.1 clkservice.mail.youdao.com
 127.0.0.1 union.youdao.com
 127.0.0.1 clkservice.union.youdao.com
