@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230329023631
+#VER=20230329205617
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=67912
+#TOTAL_LINES=67942
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -318,7 +318,6 @@
 127.0.0.1 10eafd09d6.com
 127.0.0.1 t.10er-tagesticket.de
 127.0.0.1 10fbb07a4b0.se
-127.0.0.1 vaserviece.10jqka.com.cn
 127.0.0.1 10nvejhblhha.com
 127.0.0.1 discover.10play.com.au
 127.0.0.1 smetrics.10play.com.au
@@ -5966,6 +5965,14 @@
 127.0.0.1 adttt.com
 127.0.0.1 e.aduiz.com
 127.0.0.1 m.aduiz.com
+127.0.0.1 adukwai.com
+127.0.0.1 p1-jx.adukwai.com
+127.0.0.1 p1-lm.adukwai.com
+127.0.0.1 p2-jx.adukwai.com
+127.0.0.1 p2-lm.adukwai.com
+127.0.0.1 v1-lm.adukwai.com
+127.0.0.1 v2-lm.adukwai.com
+127.0.0.1 v4-lm.adukwai.com
 127.0.0.1 adulatorycrappyghastly.com
 127.0.0.1 adulatorydigestionmanicure.com
 127.0.0.1 adult.xyz
@@ -14798,7 +14805,6 @@
 127.0.0.1 chitika.net
 127.0.0.1 chiuhua.com.cn
 127.0.0.1 chiyan.group
-127.0.0.1 chkaja.com
 127.0.0.1 chl7rysobc3ol6xla.com
 127.0.0.1 chlbiz.com
 127.0.0.1 chlibopi.xyz
@@ -20177,6 +20183,8 @@
 127.0.0.1 dividedscientific.com
 127.0.0.1 divideoutdoors.com
 127.0.0.1 divolution.com
+127.0.0.1 ad-display.diwodiwo.xyz
+127.0.0.1 ad-channel.diwodiwo.xyz
 127.0.0.1 diwuyu.com
 127.0.0.1 ads.dixcom.com
 127.0.0.1 web.news.dixiefashion.com
@@ -21133,6 +21141,24 @@
 127.0.0.1 dustytownsplatitude.com
 127.0.0.1 dustywave.com
 127.0.0.1 dustywrenchdesigned.com
+127.0.0.1 api-c.dutils.com
+127.0.0.1 api-d.dutils.com
+127.0.0.1 api-devs.dutils.com
+127.0.0.1 api-df.dutils.com
+127.0.0.1 api-error.dutils.com
+127.0.0.1 api-exc.dutils.com
+127.0.0.1 api-fc.dutils.com
+127.0.0.1 api-fd.dutils.com
+127.0.0.1 api-gd.dutils.com
+127.0.0.1 devs-data.dutils.com
+127.0.0.1 jp-api-fc.dutils.com
+127.0.0.1 jp-devs-data.dutils.com
+127.0.0.1 m.mpl.dutils.com
+127.0.0.1 h.m.mpl.dutils.com
+127.0.0.1 us-api-d.dutils.com
+127.0.0.1 us-api-fc.dutils.com
+127.0.0.1 us-devs-data.dutils.com
+127.0.0.1 www.dutils.com
 127.0.0.1 dutorterraom.com
 127.0.0.1 dutravisne.com
 127.0.0.1 dutuo4.top
@@ -26413,6 +26439,10 @@
 127.0.0.1 giddyuptrk.com
 127.0.0.1 stats-messages.gifs.com
 127.0.0.1 stats.gifs.com
+127.0.0.1 gdfp.gifshow.com
+127.0.0.1 log-sdk.gifshow.com
+127.0.0.1 ad.partner.gifshow.com
+127.0.0.1 ulog-sdk.gifshow.com
 127.0.0.1 secure.gift2pair.com
 127.0.0.1 gift2pair.com
 127.0.0.1 giftedglue.com
@@ -31870,7 +31900,6 @@
 127.0.0.1 g3.iqilu.com
 127.0.0.1 g4.iqilu.com
 127.0.0.1 a.ckm.iqiyi.com
-127.0.0.1 act.vip.iqiyi.com
 127.0.0.1 cupid.iqiyi.com
 127.0.0.1 api.cupid.iqiyi.com
 127.0.0.1 yuedu.iqiyi.com
@@ -33769,7 +33798,6 @@
 127.0.0.1 jknarp.kakaku.com
 127.0.0.1 stat-ssl.kakaku.com
 127.0.0.1 kakam.info
-127.0.0.1 short-video.kakamobi.cn
 127.0.0.1 smart-789.kakamobi.cn
 127.0.0.1 kyson.kakao.com
 127.0.0.1 stat.tiara.kakao.com
@@ -47720,7 +47748,6 @@
 127.0.0.1 paopaod.qiyipic.com
 127.0.0.1 qiyou.com
 127.0.0.1 nim.qiyukf.com
-127.0.0.1 qiyukf.com
 127.0.0.1 e.qiyunmuye.com
 127.0.0.1 qizhao.com
 127.0.0.1 8131.qizhihaotian.cn
@@ -48093,6 +48120,10 @@
 127.0.0.1 mark.l.qq.com
 127.0.0.1 rlog.video.qq.com
 127.0.0.1 ad.browser.qq.com
+127.0.0.1 rdelivery.qq.com
+127.0.0.1 aedns.weixin.qq.com
+127.0.0.1 date.ab.qq.com
+127.0.0.1 report.nfa.qq.com
 127.0.0.1 qq167.com
 127.0.0.1 qq2ux.top
 127.0.0.1 qq4g.cn
@@ -49010,7 +49041,6 @@
 127.0.0.1 buttons.reddit.com
 127.0.0.1 events.reddit.com
 127.0.0.1 w3-reporting.reddit.com
-127.0.0.1 click.redditmail.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 reddsdainful.com
 127.0.0.1 redeemspectacular.com
