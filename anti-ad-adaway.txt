@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230429023306
+#VER=20230430004414
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=71862
+#TOTAL_LINES=71874
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -478,6 +478,7 @@
 127.0.0.1 pg-ad-b2.ws.126.net
 127.0.0.1 pimg1.126.net
 127.0.0.1 webstat.ws.126.net
+127.0.0.1 ads.music.126.net
 127.0.0.1 iadmat.nosdn.127.net
 127.0.0.1 pg-ad-b1.nosdn.127.net
 127.0.0.1 yt-adp.nosdn.127.net
@@ -8876,6 +8877,7 @@
 127.0.0.1 1xejnhs1zd1.staging.aporia.com
 127.0.0.1 cqz6fn6aox.aporia.com
 127.0.0.1 devtest.app-birdy.com
+127.0.0.1 app-measurement-cn.com
 127.0.0.1 app-measurement.com
 127.0.0.1 prism.app-us1.com
 127.0.0.1 sp.app.com
@@ -11719,7 +11721,7 @@
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 wenku-cms.bj.bcebos.com
 127.0.0.1 xsapp.cdn.bcebos.com
-127.0.0.1 staticsns.cdn.bcebos.com
+127.0.0.1 mobads-pre-config.cdn.bcebos.com
 127.0.0.1 httpdns.bcelive.com
 127.0.0.1 bcenuvkijj.com
 127.0.0.1 bcf8fbea24.com
@@ -17450,6 +17452,7 @@
 127.0.0.1 cm-trk3.com
 127.0.0.1 cm-trk5.com
 127.0.0.1 campaigns.cm.be
+127.0.0.1 mbads.paas.cmbchina.com
 127.0.0.1 cmbestsrv.com
 127.0.0.1 cmblom.cn
 127.0.0.1 cmbpdk.cn
@@ -20168,6 +20171,7 @@
 127.0.0.1 info.dartcontrols.com
 127.0.0.1 dartg665moetyor.com
 127.0.0.1 dartonim.com
+127.0.0.1 dartsearch-cn.net
 127.0.0.1 ch0p.darty.com
 127.0.0.1 mczpco.darty.com
 127.0.0.1 darvorn.com
@@ -28219,6 +28223,7 @@
 127.0.0.1 ggmm777.com
 127.0.0.1 e.ggouh.com
 127.0.0.1 m.ggouh.com
+127.0.0.1 ggpht.cn
 127.0.0.1 ggqnre.xyz
 127.0.0.1 ggrhsx.cn
 127.0.0.1 nochange.ggsafe.com
@@ -28870,6 +28875,7 @@
 127.0.0.1 sdn.gongkao.hn.cn
 127.0.0.1 gongwuyuan.name
 127.0.0.1 gongxifc.com
+127.0.0.1 gongyichuangyi.net
 127.0.0.1 m.gongzhilian.com.cn
 127.0.0.1 goniforas.com
 127.0.0.1 gonpc.com
@@ -28945,11 +28951,16 @@
 127.0.0.1 myscoop-tracking.googlecode.com
 127.0.0.1 trakksocial.googlecode.com
 127.0.0.1 googlecommerce.com
+127.0.0.1 googleflights-cn.net
+127.0.0.1 googleminiapps.cn
 127.0.0.1 googleoptimize-cn.com
 127.0.0.1 googleoptimize.com
 127.0.0.1 badad.googleplex.com
 127.0.0.1 googlerank.info
+127.0.0.1 googlers-cn.com
+127.0.0.1 googlesandbox-cn.com
 127.0.0.1 lzzht.googlespider1.cn
+127.0.0.1 googlesyndication-cn.com
 127.0.0.1 buttons.googlesyndication.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
@@ -28960,6 +28971,7 @@
 127.0.0.1 googletagmanager-cn.com
 127.0.0.1 googletagmanager.com
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 googletagservices-cn.com
 127.0.0.1 googletagservices.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 googlevads-cn.com
@@ -29738,6 +29750,7 @@
 127.0.0.1 gvisit.com
 127.0.0.1 gvmojhugkiud.com
 127.0.0.1 gvqrclx.cn
+127.0.0.1 gvt1-cn.com
 127.0.0.1 gg.gw032.com
 127.0.0.1 gwaaz.cn
 127.0.0.1 gwallet.com
@@ -30828,7 +30841,6 @@
 127.0.0.1 stats.heyoya.com
 127.0.0.1 heystaks.com
 127.0.0.1 adsfs-sdkconfig.heytapimage.com
-127.0.0.1 heytapimage.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 b2-data.ads.heytapmobi.com
@@ -37987,7 +37999,6 @@
 127.0.0.1 ldisgmftfxanwb.com
 127.0.0.1 pv.ldlwdsx.com
 127.0.0.1 www.ldlwdsx.com
-127.0.0.1 ldmnq.com
 127.0.0.1 sp.ldnews.com
 127.0.0.1 ldnlyap.com
 127.0.0.1 ldpiecesonth.xyz
@@ -68529,6 +68540,7 @@
 127.0.0.1 xhmybanjia.cn
 127.0.0.1 xhqg.xyz
 127.0.0.1 xhr0.xyz
+127.0.0.1 ads-img-al.xhscdn.com
 127.0.0.1 xhsrw.xyz
 127.0.0.1 c.xhsxgmt.cn
 127.0.0.1 s.xhsxgmt.cn
