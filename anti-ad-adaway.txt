@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20230708023705
+#VER=20230709213542
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=75572
+#TOTAL_LINES=75571
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -75276,7 +75276,6 @@
 127.0.0.1 widget.zoorate.com
 127.0.0.1 net.zooroyal.de
 127.0.0.1 zooshawo.com
-127.0.0.1 zoosnet.net
 127.0.0.1 zoossoft.cn
 127.0.0.1 zoossoft.net
 127.0.0.1 zoozistu.net
