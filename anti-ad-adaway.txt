@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240226023248
+#VER=20240229023252
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=102070
+#TOTAL_LINES=102218
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -116,6 +116,7 @@
 127.0.0.1 065b42ba2b.se
 127.0.0.1 0676el9lskux.top
 127.0.0.1 06789.xyz
+127.0.0.1 06a21eff24.com
 127.0.0.1 06e293435c.com
 127.0.0.1 f1.06ps.com
 127.0.0.1 m.06v2j.cn
@@ -235,7 +236,6 @@
 127.0.0.1 awrgkd.1000farmacie.it
 127.0.0.1 1000re.com
 127.0.0.1 1000su.com
-127.0.0.1 1717.1000uc.com
 127.0.0.1 jf.10010.com
 127.0.0.1 smartad.10010.com
 127.0.0.1 m1.ad.10010.com
@@ -339,7 +339,6 @@
 127.0.0.1 rake.11st.co.kr
 127.0.0.1 11supjav.xyz
 127.0.0.1 1200555.com
-127.0.0.1 1202liutiao.xyz
 127.0.0.1 analysis.120ask.com
 127.0.0.1 ip.120ask.com
 127.0.0.1 scws.120ask.com
@@ -530,6 +529,7 @@
 127.0.0.1 adgeo.corp.163.com
 127.0.0.1 bobo.corp.163.com
 127.0.0.1 count.mail.163.com
+127.0.0.1 crash.163.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 fa.corp.163.com
 127.0.0.1 g.corp.163.com
@@ -548,7 +548,6 @@
 127.0.0.1 temp.163.com
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
-127.0.0.1 crash.163.com
 127.0.0.1 httpdns.music.163.com
 127.0.0.1 netapm.music.163.com
 127.0.0.1 ipv6.music.163.com
@@ -692,6 +691,7 @@
 127.0.0.1 1b8873d66e.com
 127.0.0.1 1b9cvfi0nwxqelxu.pro
 127.0.0.1 1bctkn.xyz
+127.0.0.1 1be76e820d.com
 127.0.0.1 1beb2a44.space
 127.0.0.1 1betandgonow.com
 127.0.0.1 1bf00b950c.com
@@ -716,6 +716,7 @@
 127.0.0.1 xs.1drj.com
 127.0.0.1 1drj.com
 127.0.0.1 1dtdsln1j.de
+127.0.0.1 1ecosolution.it
 127.0.0.1 marketing.1edisource.com
 127.0.0.1 1empiredirect.com
 127.0.0.1 1ep2l1253.de
@@ -990,7 +991,6 @@
 127.0.0.1 2398.pw
 127.0.0.1 cdn93d99x0e.23bei.com
 127.0.0.1 23dhj4q.com
-127.0.0.1 23dsf.top
 127.0.0.1 s.23dsf.top
 127.0.0.1 consent.23g.io
 127.0.0.1 23kmm.com
@@ -1196,6 +1196,7 @@
 127.0.0.1 2m3gdt0gc.de
 127.0.0.1 2m55gqleg.de
 127.0.0.1 2mdn-cn.net
+127.0.0.1 2mdn.net
 127.0.0.1 s1.2mdn.net
 127.0.0.1 2medo.top
 127.0.0.1 2mf9kkbhab31.com
@@ -1317,9 +1318,6 @@
 127.0.0.1 331qka.cn
 127.0.0.1 3324.cn
 127.0.0.1 dm1.3328.cn
-127.0.0.1 3332899.com
-127.0.0.1 3336637.com
-127.0.0.1 3337126.com
 127.0.0.1 3337723.com
 127.0.0.1 3337738.com
 127.0.0.1 3338635.com
@@ -1868,13 +1866,13 @@
 127.0.0.1 4jffu.cn
 127.0.0.1 4jnzhl0d0.com
 127.0.0.1 m.4joon8.cn
-127.0.0.1 lk.4jzl.cn
 127.0.0.1 mo.4k9b.cn
 127.0.0.1 4kggatl1p7ps.top
 127.0.0.1 4kmovies.online
 127.0.0.1 4l903.com
 127.0.0.1 wzpwxe.4lapy.ru
 127.0.0.1 4link.it
+127.0.0.1 4lke.online
 127.0.0.1 4luckyf.com
 127.0.0.1 webstat.4music.com
 127.0.0.1 4name.com
@@ -2052,7 +2050,6 @@
 127.0.0.1 push-dc.51y5.net
 127.0.0.1 wifiapidd.51y5.net
 127.0.0.1 wkanc.51y5.net
-127.0.0.1 im.51yaliesha.com
 127.0.0.1 51yes.com
 127.0.0.1 count.51yes.com
 127.0.0.1 count10.51yes.com
@@ -2118,7 +2115,6 @@
 127.0.0.1 5251m.xyz
 127.0.0.1 525cm.com
 127.0.0.1 526d.com
-127.0.0.1 528791725.com
 127.0.0.1 5293.com
 127.0.0.1 www.5293.com
 127.0.0.1 52aan.cn
@@ -2132,7 +2128,6 @@
 127.0.0.1 52ee3dc5fe.com
 127.0.0.1 secure.52enterprisingdetails.com
 127.0.0.1 m.52j72s.com
-127.0.0.1 api.52kkg.com
 127.0.0.1 52kmh.com
 127.0.0.1 52linglei.com
 127.0.0.1 shouliang.52lvgucci.com
@@ -2420,7 +2415,6 @@
 127.0.0.1 612.com
 127.0.0.1 t1.612.com
 127.0.0.1 614514.com
-127.0.0.1 616182863.com
 127.0.0.1 61677.com
 127.0.0.1 www.61677.com
 127.0.0.1 61677c.com
@@ -2792,7 +2786,6 @@
 127.0.0.1 7i4dka.cn
 127.0.0.1 ytlo.7ia9h.cn
 127.0.0.1 7insight.com
-127.0.0.1 tu.7j813.cn
 127.0.0.1 7jrahgc.de
 127.0.0.1 cysd.7kww.net
 127.0.0.1 tj.7kww.net
@@ -2872,7 +2865,6 @@
 127.0.0.1 84232.com
 127.0.0.1 847h7f51.de
 127.0.0.1 www.849558.com
-127.0.0.1 8499223.com
 127.0.0.1 8499583.com
 127.0.0.1 84aa71fc7c.com
 127.0.0.1 84c08fdae0.com
@@ -2888,7 +2880,6 @@
 127.0.0.1 k.85wa.cn
 127.0.0.1 86.cc
 127.0.0.1 861ht.com
-127.0.0.1 8622a.com
 127.0.0.1 863my.com
 127.0.0.1 864feb57ruary.com
 127.0.0.1 867df8b139.com
@@ -3290,7 +3281,6 @@
 127.0.0.1 t.9gag.com
 127.0.0.1 9gg23.com
 127.0.0.1 9h1111.com
-127.0.0.1 9h5qq.cn
 127.0.0.1 9h622.top
 127.0.0.1 9i8i.com
 127.0.0.1 adsdk.9imobi.com
@@ -3919,6 +3909,7 @@
 127.0.0.1 roulette.abzorbagames.com
 127.0.0.1 m2reg.ulm.ac.id
 127.0.0.1 marketing.colman.ac.il
+127.0.0.1 library.arihantmbainstitute.ac.in
 127.0.0.1 ac35e1ff43.com
 127.0.0.1 acacdn.com
 127.0.0.1 acacdn.xyz
@@ -4005,7 +3996,6 @@
 127.0.0.1 tr.news.accessmastertour.com
 127.0.0.1 tr.news.accessmbatour.com
 127.0.0.1 accessorydistantdepths.com
-127.0.0.1 accessservicesonline.com
 127.0.0.1 imp.accesstra.de
 127.0.0.1 accesstrade.net
 127.0.0.1 accid.xyz
@@ -6753,6 +6743,7 @@
 127.0.0.1 adbutler-fermion.com
 127.0.0.1 adbutler.com
 127.0.0.1 trk.adbutter.net
+127.0.0.1 adbutter.net
 127.0.0.1 adbuyer.com
 127.0.0.1 c.adbxb.cn
 127.0.0.1 opgirl-tmp.adbxb.cn
@@ -7426,6 +7417,7 @@
 127.0.0.1 adobe-dns-2.adobe.com
 127.0.0.1 adobe-dns-3.adobe.com
 127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 advertising.adobe.com
 127.0.0.1 geo2.adobe.com
 127.0.0.1 hl2rcv.adobe.com
 127.0.0.1 practivate.adobe.com
@@ -7785,9 +7777,11 @@
 127.0.0.1 m.adsdsu.cn
 127.0.0.1 adsemirate.com
 127.0.0.1 adsemo.com
+127.0.0.1 adsense.com
 127.0.0.1 adsensecamp.com
 127.0.0.1 adsensecustomsearchads.com
 127.0.0.1 adsensedetective.com
+127.0.0.1 adsenseformobileapps.com
 127.0.0.1 adsensor.org
 127.0.0.1 chance.adsensor.org
 127.0.0.1 www.adsensor.org
@@ -8009,6 +8003,7 @@
 127.0.0.1 adtlgc.com
 127.0.0.1 adtlvnxmht.com
 127.0.0.1 adtng.com
+127.0.0.1 a.adtng.com
 127.0.0.1 adtoadd.com
 127.0.0.1 adtoll.com
 127.0.0.1 adtoma.com
@@ -8175,6 +8170,8 @@
 127.0.0.1 adverticum.net
 127.0.0.1 advertise.com
 127.0.0.1 advertisementafterthought.com
+127.0.0.1 advertisercommunity.com
+127.0.0.1 advertiserscommunity.com
 127.0.0.1 advertiserurl.com
 127.0.0.1 advertiseserve.com
 127.0.0.1 advertisespace.com
@@ -8201,6 +8198,7 @@
 127.0.0.1 advertone.ru
 127.0.0.1 advertpay.net
 127.0.0.1 advertserve.com
+127.0.0.1 cdn.advertserve.com
 127.0.0.1 advertur.ru
 127.0.0.1 advfeeds.com
 127.0.0.1 advg.jp
@@ -8291,6 +8289,9 @@
 127.0.0.1 static.adwo.com
 127.0.0.1 track.adwo.com
 127.0.0.1 www.adwo.com
+127.0.0.1 adwords-community.com
+127.0.0.1 adwords.com
+127.0.0.1 adwordsexpress.com
 127.0.0.1 adworkmedia.com
 127.0.0.1 adworkmedia.net
 127.0.0.1 adworldmedia.com
@@ -8495,6 +8496,7 @@
 127.0.0.1 afdumnnhg.com
 127.0.0.1 afdunaui.com
 127.0.0.1 afearprevoid.com
+127.0.0.1 afeerdah.net
 127.0.0.1 sudon.afefw.com
 127.0.0.1 afethqrektafa.com
 127.0.0.1 aff-handler.com
@@ -9174,7 +9176,6 @@
 127.0.0.1 tk.airfrance.us
 127.0.0.1 tk.airfrance.vn
 127.0.0.1 s.airgoat.com
-127.0.0.1 airhobi.com
 127.0.0.1 analytics.airindia.com
 127.0.0.1 airlessquotationtroubled.com
 127.0.0.1 airlinerappetizingcoast.com
@@ -9261,7 +9262,6 @@
 127.0.0.1 aistgsgxvsrywhf.com
 127.0.0.1 aistthatheha.xyz
 127.0.0.1 ait7ee.win
-127.0.0.1 aitaoshegnqian.cn
 127.0.0.1 aitarsou.com
 127.0.0.1 salesandmarketing.aitcfis.com
 127.0.0.1 aitsatho.com
@@ -9398,6 +9398,7 @@
 127.0.0.1 tillertag-a.akamaihd.net
 127.0.0.1 w4o7aea80ss3-a.akamaihd.net
 127.0.0.1 lbstatic-a.akamaihd.net
+127.0.0.1 supersonicads-a.akamaihd.net
 127.0.0.1 analytics2-3-meride-tv.akamaized.net
 127.0.0.1 analytics2-meride-tv.akamaized.net
 127.0.0.1 hydro-ma-proxy.akamaized.net
@@ -9524,6 +9525,7 @@
 127.0.0.1 info.aldautomotive.com
 127.0.0.1 renting.aldautomotive.es
 127.0.0.1 info.aldcarmarket.com
+127.0.0.1 alddoggess.com
 127.0.0.1 resources.aldec.com
 127.0.0.1 mdws.aldergrovecu.ca
 127.0.0.1 web.e.aldermore.co.uk
@@ -9640,8 +9642,9 @@
 127.0.0.1 dsp.ali213.net
 127.0.0.1 bmp.ali213.net
 127.0.0.1 bmp1.ali213.net
-127.0.0.1 web.ali213.net
 127.0.0.1 click.ali213.net
+127.0.0.1 pbmp.ali213.net
+127.0.0.1 web.ali213.net
 127.0.0.1 alia-iso.com
 127.0.0.1 aliadvert.ru
 127.0.0.1 tr.info.aliae.com
@@ -9681,6 +9684,10 @@
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
 127.0.0.1 gma.alicdn.com
+127.0.0.1 gtms01.alicdn.com
+127.0.0.1 gtms02.alicdn.com
+127.0.0.1 gtms03.alicdn.com
+127.0.0.1 gtms04.alicdn.com
 127.0.0.1 gtmsdd.alicdn.com
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 proxy-mob-cld.alicdn.com
@@ -9740,6 +9747,7 @@
 127.0.0.1 alingrethertantin.info
 127.0.0.1 alinxc.com
 127.0.0.1 collect.alipay.com
+127.0.0.1 amdc.alipay.com
 127.0.0.1 alipaylog.com
 127.0.0.1 alipromo.com
 127.0.0.1 lhg.alisinak.com
@@ -9758,7 +9766,9 @@
 127.0.0.1 www.aliyoo999.com
 127.0.0.1 oa-panther.data.aliyun.com
 127.0.0.1 acjs.aliyun.com
+127.0.0.1 click.aliyun.com
 127.0.0.1 osfota.cdn.aliyun.com
+127.0.0.1 osupdate.aliyun.com
 127.0.0.1 aliyun6969.cn
 127.0.0.1 aixuntupian.oss-cn-hongkong.aliyuncs.com
 127.0.0.1 alime-pic.oss-cn-hangzhou.aliyuncs.com
@@ -9966,7 +9976,6 @@
 127.0.0.1 allow-to-continue.com
 127.0.0.1 allowbecome.com
 127.0.0.1 allowecouldl.xyz
-127.0.0.1 allowfencelist.com
 127.0.0.1 allowflannelmob.com
 127.0.0.1 allowmailbox.com
 127.0.0.1 allowsscaffold.com
@@ -9983,6 +9992,7 @@
 127.0.0.1 b.allsecur.nl
 127.0.0.1 scs.allsecur.nl
 127.0.0.1 allskillon.com
+127.0.0.1 allsports4free.online
 127.0.0.1 allstat-pp.ru
 127.0.0.1 data.allstate.com
 127.0.0.1 metrics.allstate.com
@@ -10383,6 +10393,7 @@
 127.0.0.1 metrics.amd.com
 127.0.0.1 smetrics.amd.com
 127.0.0.1 amdahlasinego.com
+127.0.0.1 amdfdpuzedih.com
 127.0.0.1 ln.ameba.jp
 127.0.0.1 sy.amebame.com
 127.0.0.1 measure.ameblo.jp
@@ -10720,6 +10731,7 @@
 127.0.0.1 analyticbz.com
 127.0.0.1 analytics-active.net
 127.0.0.1 analytics-cdiscount.com
+127.0.0.1 analytics-data.io
 127.0.0.1 analytics-debugger.com
 127.0.0.1 analytics-helper.com
 127.0.0.1 analytics.blue
@@ -10734,6 +10746,7 @@
 127.0.0.1 anamuel-careslie.com
 127.0.0.1 anansao2ay8yap09.com
 127.0.0.1 xsrzqh.ananzi.co.za
+127.0.0.1 anapa-zarya.ru
 127.0.0.1 anapirate.com
 127.0.0.1 a8cv.anapnet.com
 127.0.0.1 anapx.net
@@ -10830,7 +10843,6 @@
 127.0.0.1 anglingdacker.com
 127.0.0.1 anglishreasts.site
 127.0.0.1 angorch-cdr7.com
-127.0.0.1 angryme.cn
 127.0.0.1 angsrvr.com
 127.0.0.1 anguac.com
 127.0.0.1 anguished-child.pro
@@ -11242,6 +11254,7 @@
 127.0.0.1 apalbs.com
 127.0.0.1 pxxhbz.apamanshop.com
 127.0.0.1 dsp.aparat.com
+127.0.0.1 apardonslaving.com
 127.0.0.1 dbmyvl.apartmentfinder.com
 127.0.0.1 mpglie.apartmentguide.com
 127.0.0.1 statistik.apartments-tirolerhaus.at
@@ -11451,9 +11464,9 @@
 127.0.0.1 searchads.apple.com
 127.0.0.1 supportmetrics.apple.com
 127.0.0.1 widgets.itunes.apple.com
-127.0.0.1 banners.itunes.apple.com
-127.0.0.1 iad.apple.com
 127.0.0.1 api-adservices.apple.com
+127.0.0.1 iad.apple.com
+127.0.0.1 banners.itunes.apple.com
 127.0.0.1 securemvt.apple.com.cn
 127.0.0.1 fpb1.apple886.com
 127.0.0.1 applequan.com
@@ -11484,6 +11497,7 @@
 127.0.0.1 pdn.applovin.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 vid.applovin.com
+127.0.0.1 applvn.com
 127.0.0.1 d.applvn.com
 127.0.0.1 ms.applvn.com
 127.0.0.1 rt.applvn.com
@@ -11921,6 +11935,7 @@
 127.0.0.1 arrangementsinventorpublic.com
 127.0.0.1 marketing.arrayasolutions.com
 127.0.0.1 arrearsexplicit.com
+127.0.0.1 arriagepuly.top
 127.0.0.1 arriedand.xyz
 127.0.0.1 arrief.com
 127.0.0.1 arrism.com
@@ -12544,6 +12559,7 @@
 127.0.0.1 a8clk.ato-barai.com
 127.0.0.1 ato.mx
 127.0.0.1 tk.atol.fr
+127.0.0.1 atom-data.io
 127.0.0.1 members.atomcomplete.com
 127.0.0.1 atomex.net
 127.0.0.1 smetrics.atomic.com
@@ -12668,7 +12684,6 @@
 127.0.0.1 cdn.atwola.com
 127.0.0.1 pr.atwola.com
 127.0.0.1 us.y.atwola.com
-127.0.0.1 dr.atwoodubre.com
 127.0.0.1 atwqyor.cn
 127.0.0.1 atwursdpal.com
 127.0.0.1 atxngifmp.com
@@ -12789,6 +12804,7 @@
 127.0.0.1 aufp.io
 127.0.0.1 aufr67i8sten.com
 127.0.0.1 auftithu.xyz
+127.0.0.1 augaiksu.xyz
 127.0.0.1 augailou.com
 127.0.0.1 app.auge.pro.br
 127.0.0.1 augigous.net
@@ -13067,7 +13083,6 @@
 127.0.0.1 kkznoe.autouncle.co.uk
 127.0.0.1 mlgubn.autouncle.de
 127.0.0.1 lbnrrh.autouncle.dk
-127.0.0.1 autoupdate.com.ua
 127.0.0.1 autovista-fi.autovistagroup.com
 127.0.0.1 autovista-fr.autovistagroup.com
 127.0.0.1 autovista-se.autovistagroup.com
@@ -13520,7 +13535,6 @@
 127.0.0.1 apps.ayopop.id
 127.0.0.1 ayorks.com
 127.0.0.1 aypahalndxrxon.com
-127.0.0.1 ayqxx.com
 127.0.0.1 ayrtpmwuymzbbq.com
 127.0.0.1 ayudvbjbvdojt.com
 127.0.0.1 e.ayues.com
@@ -13534,6 +13548,7 @@
 127.0.0.1 ayxuadkeh.com
 127.0.0.1 data.information.ayyildiz.de
 127.0.0.1 ayynsdp.xyz
+127.0.0.1 ar1.aza.io
 127.0.0.1 azabu-u.ac.jp
 127.0.0.1 azadify.com
 127.0.0.1 ssc.azadiradio.com
@@ -13669,7 +13684,7 @@
 127.0.0.1 b1js.com
 127.0.0.1 views.b1tv.ro
 127.0.0.1 m.b1zju.cn
-127.0.0.1 analytics.b2.ai
+127.0.0.1 cdn.b2.ai
 127.0.0.1 b21be0a0c8.com
 127.0.0.1 b225.org
 127.0.0.1 b2261a9931.com
@@ -14063,6 +14078,7 @@
 127.0.0.1 dzl.baidu.com
 127.0.0.1 e.baidu.com
 127.0.0.1 ers.baidu.com
+127.0.0.1 feed.baidu.com
 127.0.0.1 g.baidu.com
 127.0.0.1 gimg.baidu.com
 127.0.0.1 guanjia.baidu.com
@@ -14105,11 +14121,13 @@
 127.0.0.1 sa8.tuisong.baidu.com
 127.0.0.1 sestat.baidu.com
 127.0.0.1 shadu.baidu.com
+127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 sobar.baidu.com
 127.0.0.1 sobartop.baidu.com
 127.0.0.1 stat.v.baidu.com
 127.0.0.1 tk.baidu.com
 127.0.0.1 tkweb.baidu.com
+127.0.0.1 tongji.baidu.com
 127.0.0.1 toolbar.baidu.com
 127.0.0.1 tracker.baidu.com
 127.0.0.1 tuijian.baidu.com
@@ -14194,6 +14212,7 @@
 127.0.0.1 bainushe.com
 127.0.0.1 tactics.bainv.net
 127.0.0.1 update.bainv.net
+127.0.0.1 baiocsomma.com
 127.0.0.1 bairenad.com
 127.0.0.1 baiseesh.net
 127.0.0.1 baisoabe.com
@@ -14330,6 +14349,7 @@
 127.0.0.1 banbuyserve.com
 127.0.0.1 comunicazioni.bancamediolanum.it
 127.0.0.1 banclip.com
+127.0.0.1 cdn.banclip.com
 127.0.0.1 data.devbmg.bancobmg.com.br
 127.0.0.1 data.infobmg.bancobmg.com.br
 127.0.0.1 data.marketing.bancobmg.com.br
@@ -15020,7 +15040,6 @@
 127.0.0.1 services.bdc.ca
 127.0.0.1 stat.bdc.ca
 127.0.0.1 stats.bdc.ca
-127.0.0.1 bdcanef.cn
 127.0.0.1 bdcd2.com
 127.0.0.1 bddc935c97.com
 127.0.0.1 m.bdeix.com
@@ -15060,6 +15079,7 @@
 127.0.0.1 mipcache.bdstatic.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 bdtdat652.shop
+127.0.0.1 dig.bdurl.net
 127.0.0.1 bduwfmbhp.com
 127.0.0.1 bdxpdz.xyz
 127.0.0.1 foreveryoung.gz01.bdysite.com
@@ -15111,7 +15131,6 @@
 127.0.0.1 plausible.bearer.sh
 127.0.0.1 bearpawclouty.com
 127.0.0.1 sswmetrics.bearskinairlines.com
-127.0.0.1 bearware.org
 127.0.0.1 beassilentasaf.xyz
 127.0.0.1 beastbeef.com
 127.0.0.1 beastintruder.com
@@ -15165,6 +15184,7 @@
 127.0.0.1 webtracking.becker.com
 127.0.0.1 beckerbauds.com
 127.0.0.1 becketcoffee.com
+127.0.0.1 beckfaster.com
 127.0.0.1 e.beckmancoulter.com
 127.0.0.1 smetrics.beckmancoulter.com
 127.0.0.1 beckoverreactcasual.com
@@ -15257,6 +15277,7 @@
 127.0.0.1 begaudycacatua.com
 127.0.0.1 beget.tech
 127.0.0.1 beggarlyfilmingabreast.com
+127.0.0.1 beggarlymeatcan.com
 127.0.0.1 beggingoppida.space
 127.0.0.1 app.begin.is
 127.0.0.1 beginnerhooligansnob.com
@@ -15312,6 +15333,7 @@
 127.0.0.1 beiven.pw
 127.0.0.1 beiwaicd.com
 127.0.0.1 beiyu.xin
+127.0.0.1 beizi.biz
 127.0.0.1 sdk.beizi.biz
 127.0.0.1 api-htp.beizi.biz
 127.0.0.1 bejesustrolly.guru
@@ -15693,7 +15715,8 @@
 127.0.0.1 stats.bestservers.co
 127.0.0.1 tracker.bestshopping.com
 127.0.0.1 bestsrv.de
-127.0.0.1 en.bestsup.su
+127.0.0.1 craft.bestsup.su
+127.0.0.1 joly.bestsup.su
 127.0.0.1 besttracksolution.com
 127.0.0.1 bestvenadvertising.com
 127.0.0.1 91ad.bestvogue.com
@@ -15910,6 +15933,7 @@
 127.0.0.1 bgrndi.com
 127.0.0.1 www.bgrndi.com
 127.0.0.1 somni.bgsaxo.it
+127.0.0.1 bgxwlomtebrtq.com
 127.0.0.1 bgyeouoavr.xyz
 127.0.0.1 bgyutxdcetx.com
 127.0.0.1 bh100.com.cn
@@ -17357,6 +17381,7 @@
 127.0.0.1 bonzai.ad
 127.0.0.1 boo-box.com
 127.0.0.1 boodaisi.xyz
+127.0.0.1 boodymauves.com
 127.0.0.1 boogopee.com
 127.0.0.1 stats.book-rec.com
 127.0.0.1 oj2q8.montecarlosbm.book-secure.com
@@ -18277,7 +18302,6 @@
 127.0.0.1 marketing.brucknertruck.com
 127.0.0.1 bruisebaseball.com
 127.0.0.1 bruisedpaperworkmetre.com
-127.0.0.1 bruiserbodies.com
 127.0.0.1 bruitedhurrahs.com
 127.0.0.1 mbna.bruker.com
 127.0.0.1 mbns.bruker.com
@@ -18295,6 +18319,7 @@
 127.0.0.1 go.brunswickgroup.com
 127.0.0.1 images.engage.brunswickgroup.com
 127.0.0.1 brupu.com
+127.0.0.1 brusuax.com
 127.0.0.1 brutalconfer.com
 127.0.0.1 bruteknack.com
 127.0.0.1 marketing.bruynzeel.org
@@ -18444,6 +18469,7 @@
 127.0.0.1 buccanslabby.top
 127.0.0.1 img.buch.ch
 127.0.0.1 buchaumpo.com
+127.0.0.1 buckersregiven.com
 127.0.0.1 bucketbean.com
 127.0.0.1 bucketsofbanners.com
 127.0.0.1 smetrics.buckeyehealthplan.com
@@ -18603,6 +18629,7 @@
 127.0.0.1 bungarovet.com
 127.0.0.1 stats.bungeefit.co.uk
 127.0.0.1 a8clk.bungeisha.co.jp
+127.0.0.1 bunintruder.com
 127.0.0.1 bunny-net.com
 127.0.0.1 bunnymediaserver.com
 127.0.0.1 dcclaa.bunte.de
@@ -19034,17 +19061,14 @@
 127.0.0.1 c473f6ab10.com
 127.0.0.1 c4d4.cn
 127.0.0.1 c4frc.info
-127.0.0.1 dw.c4kdeliver.top
 127.0.0.1 c4tracking01.com
 127.0.0.1 t.c4tw.net
 127.0.0.1 go.c4weld.com
 127.0.0.1 c50021876c67fd14.com
 127.0.0.1 c5b39ff13b3259df.com
 127.0.0.1 c5cdfd1601.com
-127.0.0.1 cnzz.c62v.cn
 127.0.0.1 c67524ad03.com
 127.0.0.1 c67adca.com
-127.0.0.1 c6890.cn
 127.0.0.1 c69d50bdaf.com
 127.0.0.1 c71f427117.com
 127.0.0.1 c71genemobile.com
@@ -19673,7 +19697,6 @@
 127.0.0.1 carfulsranquel.com
 127.0.0.1 marketing.cargas.com
 127.0.0.1 link.cargo.co
-127.0.0.1 cargoconnect.online
 127.0.0.1 cargodescent.com
 127.0.0.1 info.cargoexpreso.com
 127.0.0.1 go.cargotec.com
@@ -19875,6 +19898,7 @@
 127.0.0.1 icaubf.casamundo.de
 127.0.0.1 ygtfgu.casamundo.nl
 127.0.0.1 blmjbp.casamundo.pl
+127.0.0.1 casamuseoayerbe.co
 127.0.0.1 casaqueapogamy.com
 127.0.0.1 aaucna.casasbahia.com.br
 127.0.0.1 m.casbanlly.com
@@ -19991,6 +20015,7 @@
 127.0.0.1 catharsisproductionsmarketing.catharsisproductions.com
 127.0.0.1 catharskeek.top
 127.0.0.1 cathedralforgiveness.com
+127.0.0.1 cathedralinthei.info
 127.0.0.1 metrics.cathflo.com
 127.0.0.1 smetrics.cathflo.com
 127.0.0.1 t-s.cathflo.com
@@ -20286,6 +20311,7 @@
 127.0.0.1 cdn4image.com
 127.0.0.1 cdn7.network
 127.0.0.1 cdn7.rocks
+127.0.0.1 1008858461.rsc.cdn77.org
 127.0.0.1 1017167188.rsc.cdn77.org
 127.0.0.1 1079823516.rsc.cdn77.org
 127.0.0.1 1080872514.rsc.cdn77.org
@@ -20496,6 +20522,7 @@
 127.0.0.1 cellojapanelmo.info
 127.0.0.1 shopping.cellpure.co.jp
 127.0.0.1 cellsmonitor.com
+127.0.0.1 cellspsoatic.com
 127.0.0.1 qceyjl.cellularoutfitter.com
 127.0.0.1 marketing.celona.io
 127.0.0.1 marketing.celsiusinternational.com
@@ -21427,7 +21454,6 @@
 127.0.0.1 kvxg.chuanmen.mobi
 127.0.0.1 chuanmen.mobi
 127.0.0.1 chuantu.biz
-127.0.0.1 chubb-institute.com
 127.0.0.1 chubbycreature.com
 127.0.0.1 chubbymess.pro
 127.0.0.1 chubsxmg.xyz
@@ -21747,6 +21773,7 @@
 127.0.0.1 cwt.citywire.info
 127.0.0.1 get.cityworthapp.com
 127.0.0.1 civadsoo.net
+127.0.0.1 civetformity.com
 127.0.0.1 l-test.civic.com
 127.0.0.1 l.civic.com
 127.0.0.1 responsemp.civica.co.uk
@@ -21973,6 +22000,7 @@
 127.0.0.1 clearancetastybroadsheet.com
 127.0.0.1 clearbit.com
 127.0.0.1 clearbitjs.com
+127.0.0.1 x.clearbitjs.com
 127.0.0.1 clearbitscripts.com
 127.0.0.1 clearcabbage.com
 127.0.0.1 marketing.cleardigital.com
@@ -22746,6 +22774,7 @@
 127.0.0.1 d2oh4tlt9mrke9.cloudfront.net
 127.0.0.1 d2ohmkyg5w2c18.cloudfront.net
 127.0.0.1 d2ojfulajn60p5.cloudfront.net
+127.0.0.1 d2oouw5449k1qr.cloudfront.net
 127.0.0.1 d2osk0po1oybwz.cloudfront.net
 127.0.0.1 d2ov8ip31qpxly.cloudfront.net
 127.0.0.1 d2ovgc4ipdt6us.cloudfront.net
@@ -23331,7 +23360,6 @@
 127.0.0.1 clrjnhxi.xyz
 127.0.0.1 clrstm.com
 127.0.0.1 clrt.ai
-127.0.0.1 clscsbcj.com
 127.0.0.1 up.clscsbcj.com
 127.0.0.1 go.clsi.org
 127.0.0.1 jln3.clstudios.com
@@ -23792,6 +23820,7 @@
 127.0.0.1 v9.cnzz.com
 127.0.0.1 wss.cnzz.com
 127.0.0.1 www.cnzz.com
+127.0.0.1 z.gds.cnzz.com
 127.0.0.1 z1.cnzz.com
 127.0.0.1 z10.cnzz.com
 127.0.0.1 z11.cnzz.com
@@ -24401,6 +24430,7 @@
 127.0.0.1 info.banrural.com.gt
 127.0.0.1 smetrics.elgallomasgallo.com.gt
 127.0.0.1 smetrics.tecoloco.com.gt
+127.0.0.1 live.com.gt
 127.0.0.1 engage.3m.com.hn
 127.0.0.1 smetrics.amway.com.hn
 127.0.0.1 smetrics.elgallomasgallo.com.hn
@@ -24572,6 +24602,7 @@
 127.0.0.1 info.compasslearning.com
 127.0.0.1 compasspenitenthollow.com
 127.0.0.1 compatibilityproduces.com
+127.0.0.1 statistics.compatibledata.eu
 127.0.0.1 compatiblepullcork.com
 127.0.0.1 compelgraduation.com
 127.0.0.1 app.info.compellent.com
@@ -25718,6 +25749,7 @@
 127.0.0.1 cqfnvznw.info
 127.0.0.1 cqfqrvghjgu.com
 127.0.0.1 cqhqvgwcypx.xyz
+127.0.0.1 cqisam.xyz
 127.0.0.1 mob10.cqjktj.com
 127.0.0.1 cqlsewa.com
 127.0.0.1 cqlupb.com
@@ -25731,8 +25763,6 @@
 127.0.0.1 cqngirxstgeeg.com
 127.0.0.1 cqnmtmqxecqvyl.com
 127.0.0.1 cqpiumcjacb.com
-127.0.0.1 c.cqpsf.cn
-127.0.0.1 v.cqpsf.cn
 127.0.0.1 cqrvwq.com
 127.0.0.1 www.cqsta.com
 127.0.0.1 cqtlimi.cn
@@ -26172,6 +26202,7 @@
 127.0.0.1 counter.csdn.net
 127.0.0.1 dc.csdn.net
 127.0.0.1 dc2.csdn.net
+127.0.0.1 img-bss.csdn.net
 127.0.0.1 img.ads.csdn.net
 127.0.0.1 medal.blog.csdn.net
 127.0.0.1 csedasdme.xyz
@@ -26256,6 +26287,7 @@
 127.0.0.1 info.ctiimage.com
 127.0.0.1 z492.ctinsider.com
 127.0.0.1 ctiotjobkfu.com
+127.0.0.1 ctlrarz.xyz
 127.0.0.1 ctlrnwbv.ru
 127.0.0.1 ctm-media.com
 127.0.0.1 ctmdtrvikipjfv.xyz
@@ -26665,7 +26697,6 @@
 127.0.0.1 cyneburg-yam.com
 127.0.0.1 www1.cynergysolutions.net
 127.0.0.1 cynicalspireheroism.com
-127.0.0.1 cynorix.com
 127.0.0.1 cyp889.cn
 127.0.0.1 marketing.cypram.com
 127.0.0.1 cyprecaccia.guru
@@ -26789,7 +26820,6 @@
 127.0.0.1 d6jfiirio372.com
 127.0.0.1 ee.d6s2pn5t.cn
 127.0.0.1 m.d6s2pn5t.cn
-127.0.0.1 mq.d6s3mov.cn
 127.0.0.1 d71022cc68.com
 127.0.0.1 d71e6dd31a026d45.com
 127.0.0.1 d72gb9oukw3j.com
@@ -26837,7 +26867,6 @@
 127.0.0.1 marketing.dacocorp.com
 127.0.0.1 dacounter.com
 127.0.0.1 dacronblanchi.guru
-127.0.0.1 dacsandongthapmuoi.vn
 127.0.0.1 statsadv.dadapro.com
 127.0.0.1 dadawm.cc
 127.0.0.1 dadhuhram.com
@@ -27684,6 +27713,7 @@
 127.0.0.1 decpo.xyz
 127.0.0.1 decreasetome.com
 127.0.0.1 decreertenet.website
+127.0.0.1 decswci.com
 127.0.0.1 deddsunland.com
 127.0.0.1 ad.dedecms.com
 127.0.0.1 stat.dedecms.com
@@ -28472,7 +28502,6 @@
 127.0.0.1 dgjyqdkxmxq.com
 127.0.0.1 dgkajwnbrazepe.com
 127.0.0.1 dglerduxehr.com
-127.0.0.1 m.dglscm.cn
 127.0.0.1 t.dgm-au.com
 127.0.0.1 dgmaustralia.com
 127.0.0.1 dgmaxinteractive.com
@@ -28728,6 +28757,7 @@
 127.0.0.1 digitalmediapp.com
 127.0.0.1 tracking.digitalocean.com
 127.0.0.1 hbid.ams3.cdn.digitaloceanspaces.com
+127.0.0.1 filekg-download-01.fra1.cdn.digitaloceanspaces.com
 127.0.0.1 digitaloptout.com
 127.0.0.1 analytics.digitalpfizer.com
 127.0.0.1 eloqua.digitalpi.com
@@ -28943,6 +28973,7 @@
 127.0.0.1 disavowhers.com
 127.0.0.1 disbarpensy.com
 127.0.0.1 disbeliefplaysgiddiness.com
+127.0.0.1 disbendcrumby.com
 127.0.0.1 dischargeinsularbroadly.com
 127.0.0.1 discloseprogramwednesday.com
 127.0.0.1 discodjxkqya.com
@@ -29383,6 +29414,7 @@
 127.0.0.1 nntgna.dmm.com
 127.0.0.1 stat.i3.dmm.com
 127.0.0.1 trac.i3.dmm.com
+127.0.0.1 ad.games.dmm.com
 127.0.0.1 dmmgjsymlrfp.com
 127.0.0.1 dmnprx.com
 127.0.0.1 dmoldsusvkpa.xyz
@@ -29425,7 +29457,6 @@
 127.0.0.1 app.insight.dnb.com
 127.0.0.1 smetrics.dnb.com
 127.0.0.1 ametrics.web.dnbbank.no
-127.0.0.1 dnccomputers.com
 127.0.0.1 dnceqzz.icu
 127.0.0.1 dndvgeemcpgpp.com
 127.0.0.1 dnemkhkbsdbl.com
@@ -29467,6 +29498,7 @@
 127.0.0.1 doaltariaer.com
 127.0.0.1 stats.doana-r.com
 127.0.0.1 doappcloud.com
+127.0.0.1 doastaib.xyz
 127.0.0.1 plausible.doberman.co
 127.0.0.1 doblazikena.com
 127.0.0.1 dobnor.com
@@ -29865,6 +29897,7 @@
 127.0.0.1 doubleadserve.com
 127.0.0.1 doublechen.online
 127.0.0.1 doubleclick-cn.net
+127.0.0.1 doubleclick.cn
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.net
 127.0.0.1 4171764.fls.doubleclick.net
@@ -30519,6 +30552,7 @@
 127.0.0.1 duetads.com
 127.0.0.1 stats.duetcode.io
 127.0.0.1 duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz
+127.0.0.1 dufjgdjeyo.com
 127.0.0.1 dufrom.com
 127.0.0.1 duftoagn.com
 127.0.0.1 dugapiece.com
@@ -30598,6 +30632,11 @@
 127.0.0.1 ad.duoduo.link
 127.0.0.1 duoduo.net
 127.0.0.1 picture.duokan.com
+127.0.0.1 misc.in.duokanbox.com
+127.0.0.1 ads-api.duolingo.com
+127.0.0.1 analytics.vpc.duolingo.com
+127.0.0.1 excess.duolingo.com
+127.0.0.1 metrics.duolingo.com
 127.0.0.1 duomai.com
 127.0.0.1 c.duomai.com
 127.0.0.1 duomeng.cn
@@ -30724,6 +30763,7 @@
 127.0.0.1 dutythursday.com
 127.0.0.1 duwabchhdgkqc.com
 127.0.0.1 duwtkigcyxh.com
+127.0.0.1 duwvinarma.com
 127.0.0.1 adsmis.duxiaoman.com
 127.0.0.1 duxqonqkcaum.com
 127.0.0.1 r.m.duyidu.net
@@ -30750,7 +30790,6 @@
 127.0.0.1 dvnqhdmze.xyz
 127.0.0.1 trk.dvsystems.com
 127.0.0.1 dvtednm.cn
-127.0.0.1 3xy1.dvv9dkv.site
 127.0.0.1 ads.dvworld.com.tw
 127.0.0.1 dvypar.com
 127.0.0.1 partner.dw.com
@@ -31073,7 +31112,6 @@
 127.0.0.1 e5bb7a50f5.com
 127.0.0.1 e6400a77fa.com
 127.0.0.1 jfot.e647ob.cn
-127.0.0.1 e66gg.com
 127.0.0.1 e67repidwnfu7gcha.com
 127.0.0.1 e6a12d08d2.com
 127.0.0.1 e6eae88795.com
@@ -32230,7 +32268,6 @@
 127.0.0.1 ekmpinpoint.co.uk
 127.0.0.1 ekmpinpoint.com
 127.0.0.1 eknrctah.com
-127.0.0.1 ekofelj.xyz
 127.0.0.1 srmdvb.ekohealth.com
 127.0.0.1 stats.ekomenyong.com
 127.0.0.1 connect.ekomi.de
@@ -32595,6 +32632,7 @@
 127.0.0.1 track.emeza.ch
 127.0.0.1 track.emeza.com
 127.0.0.1 emgthropositeas.info
+127.0.0.1 emgvod.com
 127.0.0.1 e.emgwq.com
 127.0.0.1 m.emgwq.com
 127.0.0.1 emicalcove.xyz
@@ -32629,6 +32667,7 @@
 127.0.0.1 myrfdq.emmi.jp
 127.0.0.1 emnucmhhyjjgoy.xyz
 127.0.0.1 emodinlighten.com
+127.0.0.1 emogi.com
 127.0.0.1 nba.emohe.com
 127.0.0.1 geo.emol.cl
 127.0.0.1 analytics.emol.com
@@ -32924,6 +32963,7 @@
 127.0.0.1 swebanalytics.eniro.se
 127.0.0.1 webanalytics.eniro.se
 127.0.0.1 enisleslonely.com
+127.0.0.1 enjehdch.xyz
 127.0.0.1 cams.enjoy.be
 127.0.0.1 smetrics.enjoy365.ch
 127.0.0.1 enjoyableoffers.club
@@ -33938,7 +33978,6 @@
 127.0.0.1 ja-jp-a8.etudehouse.com
 127.0.0.1 etui8.cn
 127.0.0.1 etxahpe.com
-127.0.0.1 etxjbxs.top
 127.0.0.1 etyequiremu.org
 127.0.0.1 secure.etym6cero.com
 127.0.0.1 etym6cero.com
@@ -33949,7 +33988,6 @@
 127.0.0.1 eu-survey.com
 127.0.0.1 eu.cf
 127.0.0.1 tr.camara.eu.com
-127.0.0.1 echothesky.eu.org
 127.0.0.1 euahvyde.xyz
 127.0.0.1 euavokhqrxhteot.com
 127.0.0.1 eucing.com
@@ -34220,6 +34258,7 @@
 127.0.0.1 e.evpywi.cn
 127.0.0.1 m.evpywi.cn
 127.0.0.1 evqpawhucyrdhu.com
+127.0.0.1 evqqhgqy.com
 127.0.0.1 ssc.evropaelire.org
 127.0.0.1 metrics.evrysdi.com
 127.0.0.1 smetrics.evrysdi.com
@@ -34861,7 +34900,16 @@
 127.0.0.1 analytics.facebook.com
 127.0.0.1 badge.facebook.com
 127.0.0.1 pixel.facebook.com
+127.0.0.1 b-graph-fallback.facebook.com
+127.0.0.1 b-graph.facebook.com
+127.0.0.1 connect.facebook.com
+127.0.0.1 graph-fallback.facebook.com
+127.0.0.1 mqtt-mini.facebook.com
+127.0.0.1 star.c10r.facebook.com
+127.0.0.1 star.fallback.c10r.facebook.com
 127.0.0.1 staticxx.facebook.com
+127.0.0.1 z-m-graph.facebook.com
+127.0.0.1 connect.facebook.net
 127.0.0.1 metrics.faceipf.com
 127.0.0.1 smetrics.faceipf.com
 127.0.0.1 analytics.faceitanalytics.com
@@ -35352,6 +35400,7 @@
 127.0.0.1 fbmedia-dhs.com
 127.0.0.1 fbooksluts.com
 127.0.0.1 fbpgdlprsiz.com
+127.0.0.1 graph.fbpigeon.com
 127.0.0.1 fbrheofkccovs.xyz
 127.0.0.1 lqxjrk.fbs.com
 127.0.0.1 fbtinlxy.com
@@ -35414,6 +35463,7 @@
 127.0.0.1 pls.fcrpg.net
 127.0.0.1 fcs.ovh
 127.0.0.1 metrics.fcsamerica.com
+127.0.0.1 fcswhwglli.com
 127.0.0.1 fcudlfqupglxynu.xyz
 127.0.0.1 m.fcuit.com
 127.0.0.1 e.fcunq.com
@@ -35719,6 +35769,7 @@
 127.0.0.1 track.ferraridealers.com
 127.0.0.1 tr.n.ferrero.fr
 127.0.0.1 adebis.ferret-one.com
+127.0.0.1 ferriesendless.com
 127.0.0.1 smetrics.ferris.ac.jp
 127.0.0.1 smetrics.ferroviedellostato.it
 127.0.0.1 fertilecalfawelessaweless.com
@@ -35818,7 +35869,6 @@
 127.0.0.1 fgkoxeqjpal.com
 127.0.0.1 fgmjrygvjvfmg.com
 127.0.0.1 fgnzdb.xyz
-127.0.0.1 fgo22.info
 127.0.0.1 fgpmxwbxnpww.xyz
 127.0.0.1 fgpvxxbsickfm.xyz
 127.0.0.1 fgre9.top
@@ -36424,6 +36474,7 @@
 127.0.0.1 flannelbeforehand.com
 127.0.0.1 flapgroundless.com
 127.0.0.1 flapicyconquered.com
+127.0.0.1 flarby.com
 127.0.0.1 flare-analytics.com
 127.0.0.1 get.flareapp.co
 127.0.0.1 flarebania.com
@@ -37439,6 +37490,7 @@
 127.0.0.1 fqewxjjgfb.com
 127.0.0.1 fqfclmlo.xyz
 127.0.0.1 fqfjmojnjslr.com
+127.0.0.1 fqhsolrj.com
 127.0.0.1 fqjelyhrbrmyvte.com
 127.0.0.1 fqkwn.com
 127.0.0.1 fqla.top
@@ -38466,12 +38518,14 @@
 127.0.0.1 cqpmvc.gala.fr
 127.0.0.1 galaare.com
 127.0.0.1 galachr.com
+127.0.0.1 roofing.galacticleads.com
 127.0.0.1 galacticmenueasier.com
 127.0.0.1 galairo.com
 127.0.0.1 galajou.com
 127.0.0.1 galaks.io
 127.0.0.1 galamis.com
 127.0.0.1 galanasorra.com
+127.0.0.1 galandskiyher5.com
 127.0.0.1 galaxiemedia.fr
 127.0.0.1 galaxypush.com
 127.0.0.1 galeaeevovae.com
@@ -38538,6 +38592,7 @@
 127.0.0.1 ja1.gamersky.com
 127.0.0.1 wmbd.gamersky.com
 127.0.0.1 ja.gamersky.com
+127.0.0.1 ja2.gamersky.com
 127.0.0.1 gamescarousel.com
 127.0.0.1 gamescdnfor.com
 127.0.0.1 analytics.gamesdrive.net
@@ -38722,6 +38777,7 @@
 127.0.0.1 gaulshiite.life
 127.0.0.1 gaumishhipshot.com
 127.0.0.1 gaumoata.com
+127.0.0.1 gaunchdelimes.com
 127.0.0.1 gaupingjaguar.com
 127.0.0.1 gaupsaur.xyz
 127.0.0.1 gauqeo.xyz
@@ -39511,8 +39567,8 @@
 127.0.0.1 gif1.gifi.fr
 127.0.0.1 stats-messages.gifs.com
 127.0.0.1 stats.gifs.com
-127.0.0.1 gdfp.gifshow.com
 127.0.0.1 log-sdk.gifshow.com
+127.0.0.1 gdfp.gifshow.com
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ulog-sdk.gifshow.com
 127.0.0.1 secure.gift2pair.com
@@ -39685,6 +39741,7 @@
 127.0.0.1 gjffrtfkhf.xyz
 127.0.0.1 5568.gjghy.com
 127.0.0.1 gjh111.cn
+127.0.0.1 gjhksxthokyjlm.com
 127.0.0.1 m.gjiai.com
 127.0.0.1 e.gjiaj.com
 127.0.0.1 m.gjiaj.com
@@ -40078,7 +40135,6 @@
 127.0.0.1 glycylsrapped.com
 127.0.0.1 stats.glyphs.fyi
 127.0.0.1 glyphsmahajan.com
-127.0.0.1 glzyw.com
 127.0.0.1 gm99.com
 127.0.0.1 gma1.com
 127.0.0.1 gmaakjrmpc.com
@@ -40100,7 +40156,6 @@
 127.0.0.1 gmihupgkozf.com
 127.0.0.1 gmixiwowford.com
 127.0.0.1 gmkflsdaa.com
-127.0.0.1 p.gmkykj.com
 127.0.0.1 gml-grp.com
 127.0.0.1 gmlebdifvxzzl.com
 127.0.0.1 gmmcerkkja.com
@@ -40215,6 +40270,7 @@
 127.0.0.1 oascentral.abclocal.go.com
 127.0.0.1 seavideo-ak.espn.go.com
 127.0.0.1 pn-raha.go.id
+127.0.0.1 smpn41.semarangkota.go.id
 127.0.0.1 efplso.epost.go.kr
 127.0.0.1 log.mofa.go.kr
 127.0.0.1 weblog.eseoul.go.kr
@@ -40277,7 +40333,6 @@
 127.0.0.1 app.gobearcats.com
 127.0.0.1 t.gobearcats.com
 127.0.0.1 refer.gober.app
-127.0.0.1 gobesitysurgery.com
 127.0.0.1 gobetweengroan.com
 127.0.0.1 gobetweensmartlyattic.com
 127.0.0.1 gobicyice.com
@@ -40552,13 +40607,17 @@
 127.0.0.1 ads.google.com
 127.0.0.1 adservice.google.com
 127.0.0.1 afd.l.google.com
+127.0.0.1 marketingplatform.google.com
 127.0.0.1 mobileads.google.com
 127.0.0.1 pagead-tpc.l.google.com
 127.0.0.1 pagead.google.com
 127.0.0.1 pagead.l.google.com
 127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.com.hk
+127.0.0.1 googleadapis.com
 127.0.0.1 googleads-cn.com
+127.0.0.1 clickserver.googleads.com
+127.0.0.1 googleads.com
 127.0.0.1 googleadservices-cn.com
 127.0.0.1 googleadservices.com
 127.0.0.1 partner.googleadservices.com
@@ -40569,6 +40628,7 @@
 127.0.0.1 googleanalysis.mobi
 127.0.0.1 ad.googleanalysis.mobi
 127.0.0.1 stat.googleanalysis.mobi
+127.0.0.1 googleanalytics.com
 127.0.0.1 googleapi.club
 127.0.0.1 clientservices.googleapis.com
 127.0.0.1 clouderrorreporting.googleapis.com
@@ -40605,6 +40665,8 @@
 127.0.0.1 googletagservices-cn.com
 127.0.0.1 googletagservices.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 googletraveladservices-cn.com
+127.0.0.1 googletraveladservices.com
 127.0.0.1 googlevads-cn.com
 127.0.0.1 googlevideoads.com
 127.0.0.1 goohimom.net
@@ -40813,7 +40875,6 @@
 127.0.0.1 promos.gpniches.com
 127.0.0.1 gpnjknuqas.xyz
 127.0.0.1 gporkecpyttu.com
-127.0.0.1 gposrzz.cn
 127.0.0.1 gppsusbb.com
 127.0.0.1 gpqicw.xyz
 127.0.0.1 gpqid.xyz
@@ -40973,6 +41034,7 @@
 127.0.0.1 grapselu.com
 127.0.0.1 grartoag.xyz
 127.0.0.1 stats.gras-system.org
+127.0.0.1 graspfungoes.com
 127.0.0.1 tr.emailing.grassavoye.com
 127.0.0.1 a8cv.grassbeaute.jp
 127.0.0.1 grasshopperprudencecondiment.com
@@ -41336,6 +41398,7 @@
 127.0.0.1 analytics.growthphysics.com
 127.0.0.1 growthrx.in
 127.0.0.1 tdep.growwwdigital.com
+127.0.0.1 grpt.ca
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 grqjpukbyvypq.xyz
 127.0.0.1 grrngjxqno.com
@@ -41454,7 +41517,6 @@
 127.0.0.1 uma.gtags.net
 127.0.0.1 ut.gtags.net
 127.0.0.1 m.gtaih.com
-127.0.0.1 m.gtask.cn
 127.0.0.1 gtbdhr.com
 127.0.0.1 ad.gtbrowser.com
 127.0.0.1 gtcpsvyirosieug.com
@@ -41703,6 +41765,7 @@
 127.0.0.1 guxsxexlkdk.xyz
 127.0.0.1 guyabe.xyz
 127.0.0.1 1.guyaheng.com
+127.0.0.1 guybaafvpv.com
 127.0.0.1 uawefo.guylook.co.kr
 127.0.0.1 guysfair.com
 127.0.0.1 a.guzhilin.com
@@ -42058,6 +42121,7 @@
 127.0.0.1 link-test.halal-navi.com
 127.0.0.1 link.halal-navi.com
 127.0.0.1 marketing.halcousa.com
+127.0.0.1 halct.cn
 127.0.0.1 stats.halcyon.hr
 127.0.0.1 halcyoncanyon.com
 127.0.0.1 urehgr.halekulani.com
@@ -42582,7 +42646,6 @@
 127.0.0.1 m.hbaog.com
 127.0.0.1 hbbvykwoiqhjpah.xyz
 127.0.0.1 hbbxwan.cn
-127.0.0.1 xg.hbcygs518.com
 127.0.0.1 links.hbe.io
 127.0.0.1 hbeipcdntijpb.com
 127.0.0.1 hbeuwgqt.ru
@@ -42631,6 +42694,7 @@
 127.0.0.1 hbxhnqj.cn
 127.0.0.1 hbyinzhibao.cn
 127.0.0.1 ijdl.hbyongwan.cn
+127.0.0.1 hbzikbe.com
 127.0.0.1 hbzjht.com
 127.0.0.1 e.hc29x.cn
 127.0.0.1 e.hc89s.cn
@@ -42855,6 +42919,7 @@
 127.0.0.1 customer.heartinternet.co.uk
 127.0.0.1 goto.heartlandpaymentsystems.com
 127.0.0.1 heartlessrigid.com
+127.0.0.1 heartperopus.top
 127.0.0.1 heartsawpeat.com
 127.0.0.1 app.emarketing.heat.com
 127.0.0.1 fan.info.heat.com
@@ -43306,6 +43371,7 @@
 127.0.0.1 miui.hftaili.com
 127.0.0.1 tf.hftaili.com
 127.0.0.1 hfufkifmeni.com
+127.0.0.1 hfugukhcea.com
 127.0.0.1 hfvqqbwverxy.xyz
 127.0.0.1 hfwld.cn
 127.0.0.1 hfxgxzmik.com
@@ -43340,6 +43406,7 @@
 127.0.0.1 e.hgrqp.com
 127.0.0.1 hgsly.buzz
 127.0.0.1 hgsosrgldtgmyb.xyz
+127.0.0.1 hgthpj.xyz
 127.0.0.1 edge.hgtv.ca
 127.0.0.1 emails.hgtv.com
 127.0.0.1 links.hgtv.com
@@ -43426,7 +43493,6 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 metrics-dra.dt.hicloud.com
 127.0.0.1 hiconversion.com
-127.0.0.1 mimg.hicooer.cn
 127.0.0.1 hicovjpufo.com
 127.0.0.1 hicpm10.com
 127.0.0.1 munnin.hicsuntdra.co
@@ -43650,7 +43716,6 @@
 127.0.0.1 hiseewhatmyou.xyz
 127.0.0.1 analytics.shop.hisense.com
 127.0.0.1 hisismoyche.com
-127.0.0.1 hisnote.cc
 127.0.0.1 secure.hiss3lark.com
 127.0.0.1 hiss3lark.com
 127.0.0.1 hissedassessmentmistake.com
@@ -43730,6 +43795,7 @@
 127.0.0.1 hitslog.com
 127.0.0.1 hitsniffer.com
 127.0.0.1 hitsprocessor.com
+127.0.0.1 hitstation.nl
 127.0.0.1 hitstatus.com
 127.0.0.1 hitsteps.com
 127.0.0.1 hittail.com
@@ -44184,7 +44250,6 @@
 127.0.0.1 nljjem.honeys-onlineshop.com
 127.0.0.1 stats.honeywell.com
 127.0.0.1 hongdouav8.com
-127.0.0.1 hongjiujiaoyi.com
 127.0.0.1 go.hongkongcupid.date
 127.0.0.1 f.hongm.com
 127.0.0.1 hongteng.xyz
@@ -44250,7 +44315,6 @@
 127.0.0.1 a8cv.hoppin-garage.com
 127.0.0.1 hopsackmoth.com
 127.0.0.1 hopsigna.com
-127.0.0.1 letters.hopto.org
 127.0.0.1 hoptopboy.com
 127.0.0.1 a8cv.hor.jp
 127.0.0.1 horaceprestige.com
@@ -44502,6 +44566,7 @@
 127.0.0.1 adbmetrics.hoy.es
 127.0.0.1 sadbmetrics.hoy.es
 127.0.0.1 sadbmetrics.hoycinema.com
+127.0.0.1 hozatr.xyz
 127.0.0.1 hozoaxan.com
 127.0.0.1 ssl.hp-china.biz
 127.0.0.1 images.engage.hp.com
@@ -44655,7 +44720,6 @@
 127.0.0.1 sh.hsfzexsg.com
 127.0.0.1 hshmbx.xyz
 127.0.0.1 hsi2i.fun
-127.0.0.1 hsiaik.com
 127.0.0.1 hskj88.cn
 127.0.0.1 hskywgpickh.com
 127.0.0.1 hslbahu.top
@@ -44819,6 +44883,7 @@
 127.0.0.1 hugelyantony.com
 127.0.0.1 hugelyimmovable.com
 127.0.0.1 xlhdtn.hugendubel.de
+127.0.0.1 hugenicholas.com
 127.0.0.1 hugfromoctopus.com
 127.0.0.1 huggerrailly.top
 127.0.0.1 insights.hugheseurope.com
@@ -45255,7 +45320,6 @@
 127.0.0.1 img.hywly.com
 127.0.0.1 yly.hywly.com
 127.0.0.1 zfgn.hyxsoft.com
-127.0.0.1 hyz86.com
 127.0.0.1 p2.hyz86.com
 127.0.0.1 s.hyz86.com
 127.0.0.1 vip.hyz86.com
@@ -45837,6 +45901,7 @@
 127.0.0.1 u1.idongde.com
 127.0.0.1 idot.cz
 127.0.0.1 stat-ssl.idou.me
+127.0.0.1 push.idowa.de
 127.0.0.1 idownloadgalore.com
 127.0.0.1 idpminic.org
 127.0.0.1 marketing.idquantique.com
@@ -45881,6 +45946,7 @@
 127.0.0.1 ieiukkwfqhwuvwy.com
 127.0.0.1 a8cv.iekoma.com
 127.0.0.1 ielgag.top
+127.0.0.1 ielmzzm.com
 127.0.0.1 info.ielts.com.au
 127.0.0.1 iemufbuvehrjo.xyz
 127.0.0.1 iendoo.com
@@ -45907,7 +45973,6 @@
 127.0.0.1 ifbfksf.xyz
 127.0.0.1 ifbqves.cn
 127.0.0.1 secure.ifbyphone.com
-127.0.0.1 ifc-edu.cn
 127.0.0.1 metrics.ifc.org
 127.0.0.1 smetrics.ifc.org
 127.0.0.1 ifc58.com
@@ -46207,6 +46272,7 @@
 127.0.0.1 e.ijuns.com
 127.0.0.1 m.ijuns.com
 127.0.0.1 e.ijuny.com
+127.0.0.1 ijvla.cn
 127.0.0.1 ijwfyirxx.xyz
 127.0.0.1 ijynarif.xyz
 127.0.0.1 ijyoguyv.com
@@ -46450,6 +46516,7 @@
 127.0.0.1 imiclk.com
 127.0.0.1 roedwy.imidapeptide.com
 127.0.0.1 imiddleagedspacious.com
+127.0.0.1 imidicsecular.com
 127.0.0.1 e.imiek.com
 127.0.0.1 m.imiek.com
 127.0.0.1 imindmap.cc
@@ -46514,6 +46581,7 @@
 127.0.0.1 imp2aff.com
 127.0.0.1 impact-ad.jp
 127.0.0.1 impact-betegy.com
+127.0.0.1 trkapi.impact.com
 127.0.0.1 impactcdn.com
 127.0.0.1 eloqua.impactconf.com
 127.0.0.1 impactcutleryrecollect.com
@@ -47068,6 +47136,7 @@
 127.0.0.1 ingjymcmsqloxw.com
 127.0.0.1 inglunewly.com
 127.0.0.1 get.ingomoney.com
+127.0.0.1 ingonherbal.com
 127.0.0.1 ingorob.com
 127.0.0.1 au-partners.ingrammicro.com
 127.0.0.1 responses.ingrammicro.com
@@ -47428,6 +47497,8 @@
 127.0.0.1 instaemail.net
 127.0.0.1 instaflrt.com
 127.0.0.1 badges.instagram.com
+127.0.0.1 graph-fallback.instagram.com
+127.0.0.1 graph.instagram.com
 127.0.0.1 install-check.com
 127.0.0.1 installlnow.com
 127.0.0.1 installscrayfishpenal.com
@@ -47940,6 +48011,7 @@
 127.0.0.1 in.invitd.us
 127.0.0.1 invitearrange.com
 127.0.0.1 invitemedia.com
+127.0.0.1 invitereferrals.com
 127.0.0.1 invitesugar.com
 127.0.0.1 invitewingorphan.com
 127.0.0.1 marketing.invitria.com
@@ -48039,6 +48111,7 @@
 127.0.0.1 m.iorgb.com
 127.0.0.1 iornsfyhueev.com
 127.0.0.1 iorwe-qmf.com
+127.0.0.1 iosqmookf.com
 127.0.0.1 iossdok.com
 127.0.0.1 ioswhi.com
 127.0.0.1 iotechnologies.com
@@ -48087,7 +48160,6 @@
 127.0.0.1 ipgp.net
 127.0.0.1 iphaigra.xyz
 127.0.0.1 iphisslurbow.com
-127.0.0.1 fo.iphonevip.cn
 127.0.0.1 iphumiki.com
 127.0.0.1 ipinfo.info
 127.0.0.1 res.ipingke.com
@@ -48510,6 +48582,7 @@
 127.0.0.1 itblisseyer.com
 127.0.0.1 ct.itbusinessedge.com
 127.0.0.1 a1.itc.cn
+127.0.0.1 data.vod.itc.cn
 127.0.0.1 itcameruptr.com
 127.0.0.1 itchinglikely.com
 127.0.0.1 itchydesignate.com
@@ -49071,6 +49144,7 @@
 127.0.0.1 javbuzz.com
 127.0.0.1 thescript.javfinder.xyz
 127.0.0.1 javgg.eu
+127.0.0.1 static.javhd.com
 127.0.0.1 creative.live.javhdporn.net
 127.0.0.1 metrics.javierarcheni.com
 127.0.0.1 javmilk.org
@@ -49490,7 +49564,6 @@
 127.0.0.1 www.jgshare.cn
 127.0.0.1 jgstny.com
 127.0.0.1 jgszymcphwcege.com
-127.0.0.1 qaops.jgwsmqx.com
 127.0.0.1 jgwzicuxjuckd.com
 127.0.0.1 jgydqhp.com
 127.0.0.1 app.jgyee.com
@@ -49498,6 +49571,7 @@
 127.0.0.1 tmwkya.jh-profishop.at
 127.0.0.1 olklgn.jh-profishop.de
 127.0.0.1 jh16csf.com
+127.0.0.1 jhayesconsulting.com
 127.0.0.1 jhbsq.cn
 127.0.0.1 m.jhcgood.com
 127.0.0.1 jhcsccodbtuw.com
@@ -50012,7 +50086,6 @@
 127.0.0.1 ebis.jobcan.jp
 127.0.0.1 ebis.jobcan.ne.jp
 127.0.0.1 cv.www.jobcareer.jp
-127.0.0.1 jobcity.com
 127.0.0.1 stat-ssl.jobcube.com
 127.0.0.1 share.jobeo.net
 127.0.0.1 jobfilletfortitude.com
@@ -50396,8 +50469,6 @@
 127.0.0.1 js2json.com
 127.0.0.1 js7k.com
 127.0.0.1 jsadapi.com
-127.0.0.1 c.jsbgh.cn
-127.0.0.1 v.jsbgh.cn
 127.0.0.1 stats.jsbible.com
 127.0.0.1 jsccnn.com
 127.0.0.1 jscdn.online
@@ -51561,6 +51632,7 @@
 127.0.0.1 images.pride.kenya-airways.com
 127.0.0.1 solutions.kep-technologies.com
 127.0.0.1 kepersaonwho.org
+127.0.0.1 kepler-37b.com
 127.0.0.1 images.portal.keppelelectric.com
 127.0.0.1 keptafd.cn
 127.0.0.1 keqii.com
@@ -51730,9 +51802,9 @@
 127.0.0.1 kggikf.icu
 127.0.0.1 kggiqfmeafi.com
 127.0.0.1 kghgmn.top
+127.0.0.1 adserviceretry.kglink.cn
 127.0.0.1 kglqjacmqmns.com
 127.0.0.1 kgnohpvawhef.com
-127.0.0.1 kgnpwdf.cn
 127.0.0.1 kgqipyttin.com
 127.0.0.1 kgroundandinte.net
 127.0.0.1 kgsehayyvhk.com
@@ -51827,7 +51899,6 @@
 127.0.0.1 kiiepofl.xyz
 127.0.0.1 repdata.kiiitv.com
 127.0.0.1 srepdata.kiiitv.com
-127.0.0.1 bbs.kiiqnnx.cn
 127.0.0.1 kiisvpby.xyz
 127.0.0.1 sqdljj.kijiji.ca
 127.0.0.1 smsulx.kijijiautos.ca
@@ -52401,7 +52472,6 @@
 127.0.0.1 kolobusbeseam.space
 127.0.0.1 kolqhaaxhk.com
 127.0.0.1 kolsh.cn
-127.0.0.1 kolur.top
 127.0.0.1 kolved.com
 127.0.0.1 komarchlupoid.com
 127.0.0.1 xibspj.komehyo.jp
@@ -52731,7 +52801,6 @@
 127.0.0.1 share.ksedi.com
 127.0.0.1 go.kshks5.site
 127.0.0.1 kshrsf.icu
-127.0.0.1 ad.kshuiz.top
 127.0.0.1 kshzlyvbaaa.com
 127.0.0.1 ksimdw.ru
 127.0.0.1 ksk-mjto-001.com
@@ -53022,11 +53091,9 @@
 127.0.0.1 hl.kuzu.com
 127.0.0.1 kv8899.com
 127.0.0.1 kvaaa.com
-127.0.0.1 kvbgoc.com
 127.0.0.1 kvclwfrsvi.com
 127.0.0.1 kvdmuxy.com
 127.0.0.1 kvecc.com
-127.0.0.1 kveff.com
 127.0.0.1 kvemm.com
 127.0.0.1 kveww.com
 127.0.0.1 kvexx.com
@@ -53034,8 +53101,6 @@
 127.0.0.1 kvfdpbad.com
 127.0.0.1 kvgotkbufvxc.com
 127.0.0.1 kvhee.com
-127.0.0.1 kvhmm.com
-127.0.0.1 kvhnn.com
 127.0.0.1 kvhrrr.top
 127.0.0.1 kvhtsvy.xyz
 127.0.0.1 kviojoglr.com
@@ -53043,16 +53108,12 @@
 127.0.0.1 tdep.kvk.nl
 127.0.0.1 kvkfxrrdjgq.xyz
 127.0.0.1 sdc.kvm-ga.de
-127.0.0.1 kvmaa.com
 127.0.0.1 kvovs.xyz
 127.0.0.1 kvpqrydt.xyz
 127.0.0.1 go.kvrma.net
 127.0.0.1 kvskknklssv.com
 127.0.0.1 kvsvug.xyz
-127.0.0.1 kvtfff.top
-127.0.0.1 kvtggg.top
 127.0.0.1 kvtllnttauq.com
-127.0.0.1 kvtnnn.top
 127.0.0.1 srepdata.kvue.com
 127.0.0.1 ywrcqa.kvue.com
 127.0.0.1 kvxxkbmby.com
@@ -53161,9 +53222,7 @@
 127.0.0.1 jtqg.kz8tr2.cn
 127.0.0.1 kzcdgja.com
 127.0.0.1 kzelzfnj.xyz
-127.0.0.1 kzemm.com
 127.0.0.1 kzepp.com
-127.0.0.1 kzeww.com
 127.0.0.1 kzkmmbrrzn.com
 127.0.0.1 kzknjdlalls.com
 127.0.0.1 kznizrhd.xyz
@@ -53695,6 +53754,7 @@
 127.0.0.1 lauhefoo.com
 127.0.0.1 lauhoosh.net
 127.0.0.1 laukaivi.net
+127.0.0.1 laulme.info
 127.0.0.1 launchbit.com
 127.0.0.1 events.launchdarkly.com
 127.0.0.1 a8clk.laundry-out.jp
@@ -53775,16 +53835,16 @@
 127.0.0.1 lbbzxarfoukaf.com
 127.0.0.1 cdn1.lbesec.com
 127.0.0.1 lbjdbym.xyz
+127.0.0.1 lbkezllkewevy.top
 127.0.0.1 lblwhh.xyz
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 lbnqnp.xyz
 127.0.0.1 lbprjdi.cn
-127.0.0.1 c.lbsbbw.cn
-127.0.0.1 v.lbsbbw.cn
 127.0.0.1 lbwjqrtxeeriap.com
 127.0.0.1 lbxcnbrczmmp.com
 127.0.0.1 lbxetynjwqyrw.com
 127.0.0.1 lby2kd27c.com
+127.0.0.1 lbylqeravmowq.top
 127.0.0.1 lbypewrshxl.com
 127.0.0.1 a8cv.lc-jewel.jp
 127.0.0.1 lc442.com
@@ -53808,7 +53868,6 @@
 127.0.0.1 connect.care.lcmchealth.org
 127.0.0.1 marketing.lcmchealth.org
 127.0.0.1 lcmevashrxfh.com
-127.0.0.1 lcmqyl.cn
 127.0.0.1 lcr.kim
 127.0.0.1 lcrhtauvic.com
 127.0.0.1 lcscompanies.lcsnet.com
@@ -54251,6 +54310,7 @@
 127.0.0.1 mdws.leroycu.ca
 127.0.0.1 ecctjf.leroymerlin.com.br
 127.0.0.1 lerrdoriak.com
+127.0.0.1 q.leru.xyz
 127.0.0.1 su1.les-suites.ca
 127.0.0.1 hello.lesarcs-peiseyvallandry.com
 127.0.0.1 plausible.lesbianromantic.com
@@ -54318,8 +54378,11 @@
 127.0.0.1 ark.letv.com
 127.0.0.1 test.ark.letv.com
 127.0.0.1 dc.letv.com
+127.0.0.1 dev.dc.letv.com
 127.0.0.1 fz.letv.com
 127.0.0.1 minisite.letv.com
+127.0.0.1 msg.m.letv.com
+127.0.0.1 plog.dc.letv.com
 127.0.0.1 pro.hoye.letv.com
 127.0.0.1 pro.letv.com
 127.0.0.1 stat.letv.com
@@ -54328,6 +54391,7 @@
 127.0.0.1 1.letvlive.com
 127.0.0.1 2.letvlive.com
 127.0.0.1 game.letvstore.com
+127.0.0.1 api.game.letvstore.com
 127.0.0.1 links-dev.letzbig.com
 127.0.0.1 links.letzbig.com
 127.0.0.1 leucan3thegm6um.com
@@ -54964,7 +55028,6 @@
 127.0.0.1 secure.list1holp.com
 127.0.0.1 list1holp.com
 127.0.0.1 listat.biz
-127.0.0.1 mg.listc.cn
 127.0.0.1 listenlayer.com
 127.0.0.1 listeraislatory.site
 127.0.0.1 listfulhymnals.website
@@ -55712,6 +55775,7 @@
 127.0.0.1 longdehua.com
 127.0.0.1 longeargloving.com
 127.0.0.1 longerbuttonamendment.com
+127.0.0.1 longerhorns.com
 127.0.0.1 longestwaileddeadlock.com
 127.0.0.1 smetric.longhornsteakhouse.com
 127.0.0.1 longingarsonistexemplify.com
@@ -55980,6 +56044,7 @@
 127.0.0.1 lpqhkj.cn
 127.0.0.1 lpravybegqv.com
 127.0.0.1 lpsxssm.com
+127.0.0.1 lptcfrgq.com
 127.0.0.1 lptiljy.com
 127.0.0.1 lptrak.com
 127.0.0.1 lpxmall.com
@@ -55988,6 +56053,7 @@
 127.0.0.1 lqammdjflcecau.com
 127.0.0.1 lqbvjmkwemboq.top
 127.0.0.1 lqbzuny.com
+127.0.0.1 lqc006.com
 127.0.0.1 lqcdn.com
 127.0.0.1 lqertautw.com
 127.0.0.1 lqglqq.com
@@ -55999,7 +56065,6 @@
 127.0.0.1 lqriubyebqo.top
 127.0.0.1 d.lqrzc.com
 127.0.0.1 lqwswjwpmaih.com
-127.0.0.1 lqxbkqdtvtdhw.xyz
 127.0.0.1 lqxuwqhh.com
 127.0.0.1 lqynkwkxstb.com
 127.0.0.1 lr-in-prod.com
@@ -56322,7 +56387,6 @@
 127.0.0.1 bnc.luxurysportsrelocation.com
 127.0.0.1 luxusbowboy.com
 127.0.0.1 luymtmiku.com
-127.0.0.1 luyongkang.top
 127.0.0.1 bai.luyouwang.com
 127.0.0.1 jsx.luyouwang.com
 127.0.0.1 luyouxi.cn
@@ -56426,7 +56490,6 @@
 127.0.0.1 m.ly0p9e.cn
 127.0.0.1 lybgzqbuopv.com
 127.0.0.1 lybxft.xyz
-127.0.0.1 lychangxu.cn
 127.0.0.1 lycheenews.com
 127.0.0.1 lychinset.space
 127.0.0.1 lycjsix.cn
@@ -56459,7 +56522,6 @@
 127.0.0.1 lyfhkyneq.com
 127.0.0.1 lyfoldqwyihiv.xyz
 127.0.0.1 l.lyfshort.com
-127.0.0.1 lyfwpt.com.cn
 127.0.0.1 lygbbkgykzcr.com
 127.0.0.1 photo.lyghjzs.cn
 127.0.0.1 lygnasa.cn
@@ -57890,7 +57952,6 @@
 127.0.0.1 mbzgogo.xyz
 127.0.0.1 acv.mc-doctor.net
 127.0.0.1 wvvw.mc-doualiya.com
-127.0.0.1 c2.mc-live.online
 127.0.0.1 mc-nudes.com
 127.0.0.1 acv.mc-nurse.net
 127.0.0.1 acv.mc-pharma.net
@@ -58547,7 +58608,6 @@
 127.0.0.1 mengte.top
 127.0.0.1 mengyang.info
 127.0.0.1 www.mengyuanwei.com
-127.0.0.1 img.mengzhan28.top
 127.0.0.1 a8cv.menina-joue.jp
 127.0.0.1 menlithium.com
 127.0.0.1 stats.meno.science
@@ -59089,6 +59149,7 @@
 127.0.0.1 d-cache.microad-cn.com
 127.0.0.1 d-track.send.microad-cn.com
 127.0.0.1 dsp.send.microad-cn.com
+127.0.0.1 microad.co.jp
 127.0.0.1 microad.jp
 127.0.0.1 microad.net
 127.0.0.1 microadinc.com
@@ -59172,7 +59233,6 @@
 127.0.0.1 images.info.microstrategy.com
 127.0.0.1 trk.microsyringes.com
 127.0.0.1 smetrics.microtelinn.com
-127.0.0.1 microtrimsltd.com.bd
 127.0.0.1 microwavemay.com
 127.0.0.1 pylon.micstatic.com
 127.0.0.1 bdqzcj.micuento.com
@@ -59270,7 +59330,6 @@
 127.0.0.1 miiepofl.xyz
 127.0.0.1 gg.miinaa.com
 127.0.0.1 hpxsci.miista.com
-127.0.0.1 360down7.miiyun.cn
 127.0.0.1 mijifen.com
 127.0.0.1 www.mijifen.com
 127.0.0.1 tr.mijn-superaanbieding.be
@@ -59472,6 +59531,7 @@
 127.0.0.1 images.response.mini.com.au
 127.0.0.1 miniaturechain.pro
 127.0.0.1 miniatureoffer.pro
+127.0.0.1 src1.minibai.com
 127.0.0.1 miniglobalcitizens.com
 127.0.0.1 tag.minimaid.co.jp
 127.0.0.1 minimumacquitteam.com
@@ -59729,6 +59789,7 @@
 127.0.0.1 link.mixnpik.com
 127.0.0.1 api-js.mixpanel.com
 127.0.0.1 mixpanel.com
+127.0.0.1 decide.mixpanel.com
 127.0.0.1 marketing.mixpo.com
 127.0.0.1 mixpo.com
 127.0.0.1 tr.newsletter.mixr.net
@@ -59848,6 +59909,8 @@
 127.0.0.1 analytics.mlstatic.com
 127.0.0.1 mlstx.cn
 127.0.0.1 mlsys.xyz
+127.0.0.1 cm.mlt01.com
+127.0.0.1 mlt01.com
 127.0.0.1 mltmjevd.xyz
 127.0.0.1 mltunxdmrv.com
 127.0.0.1 mlumlio.cn
@@ -59888,7 +59951,6 @@
 127.0.0.1 mmjfnxx.com
 127.0.0.1 mmjjnufyaadr.com
 127.0.0.1 mmjoxlxv.com
-127.0.0.1 mc.mmkkhhnn.cn
 127.0.0.1 mmkkiivv.com
 127.0.0.1 e.mmkvi.com
 127.0.0.1 m.mmkvi.com
@@ -59944,6 +60006,7 @@
 127.0.0.1 mnbvjhg.com
 127.0.0.1 mncvjhg.com
 127.0.0.1 get.mndbdy.ly
+127.0.0.1 mndjcojpsdcr.com
 127.0.0.1 mndsrv.com
 127.0.0.1 mndvjhg.com
 127.0.0.1 mnekumtrssln.com
@@ -60005,6 +60068,7 @@
 127.0.0.1 moapuwhe.com
 127.0.0.1 moartraffic.com
 127.0.0.1 moastizi.xyz
+127.0.0.1 moat.com
 127.0.0.1 secure.moat4shot.com
 127.0.0.1 moat4shot.com
 127.0.0.1 moatads.com
@@ -60147,6 +60211,7 @@
 127.0.0.1 mobtrks.com
 127.0.0.1 mobtyb.com
 127.0.0.1 mobvista.com
+127.0.0.1 mobwithad.com
 127.0.0.1 mobylog.jp
 127.0.0.1 mobytrks.com
 127.0.0.1 mocean.mobi
@@ -61478,6 +61543,7 @@
 127.0.0.1 mxatooknlavb.com
 127.0.0.1 mxcdn.net
 127.0.0.1 mxdadjpe.com
+127.0.0.1 mxgboxq.com
 127.0.0.1 mxgjgvoazhit.com
 127.0.0.1 m.mxguan.com
 127.0.0.1 mxipwcyo.xyz
@@ -61485,6 +61551,7 @@
 127.0.0.1 mxknqq.com
 127.0.0.1 mxmkhyrmup.com
 127.0.0.1 marketing.mxmsig.com
+127.0.0.1 evt.mxplay.com
 127.0.0.1 mxplwkgqfvln.com
 127.0.0.1 mxpnl.com
 127.0.0.1 mxpopad.com
@@ -61498,7 +61565,6 @@
 127.0.0.1 mxzluxet.com
 127.0.0.1 a8cv.my-arrow.co.jp
 127.0.0.1 my-hanson.com
-127.0.0.1 my.my-hr.cn
 127.0.0.1 cv.my-lancul.com
 127.0.0.1 app.nissan.my-nissan-usa.com
 127.0.0.1 my-ranking.de
@@ -62120,6 +62186,7 @@
 127.0.0.1 nametraff.com
 127.0.0.1 namol.xyz
 127.0.0.1 abkdae.namshi.com
+127.0.0.1 namthaibinh.net
 127.0.0.1 med.namzaric.com
 127.0.0.1 nan0cns.com
 127.0.0.1 nan46ysangt28eec.com
@@ -62344,6 +62411,7 @@
 127.0.0.1 naughtynotice.pro
 127.0.0.1 nauhlkupj.com
 127.0.0.1 logs.naukri.com
+127.0.0.1 naulme.info
 127.0.0.1 naumkamebian.com
 127.0.0.1 naupouch.xyz
 127.0.0.1 naupseko.com
@@ -62570,6 +62638,8 @@
 127.0.0.1 learn.ndtco.com
 127.0.0.1 trk.ndtco.com
 127.0.0.1 webinar.ndtco.com
+127.0.0.1 ndthdte125.shop
+127.0.0.1 ndthdtr586.shop
 127.0.0.1 ndthensome.com
 127.0.0.1 ndtsusmqnuslkqx.com
 127.0.0.1 alerts.ndtv.com
@@ -63324,7 +63394,6 @@
 127.0.0.1 nexxxt.biz
 127.0.0.1 bot.nexyvox.com
 127.0.0.1 neylwuhxhaek.com
-127.0.0.1 mg.nezqmud.com
 127.0.0.1 nezqmud.com
 127.0.0.1 nezuel.com
 127.0.0.1 a8.nezumi-guard.com
@@ -63355,6 +63424,7 @@
 127.0.0.1 acv.nft-hikari.net
 127.0.0.1 nftfyvbfbonpe.com
 127.0.0.1 eo.nftqkq.cn
+127.0.0.1 nfupxwsdzbqen.com
 127.0.0.1 nfuwpyx.com
 127.0.0.1 nfwebminer.com
 127.0.0.1 nfwivxk.com
@@ -63781,7 +63851,6 @@
 127.0.0.1 njvacw.xyz
 127.0.0.1 jyc.njxczy.com
 127.0.0.1 njxraqb.xyz
-127.0.0.1 t.njzrxx.xyz
 127.0.0.1 nkbhsbteuu.com
 127.0.0.1 nkbkor.icu
 127.0.0.1 nkbobsj.com
@@ -63792,6 +63861,7 @@
 127.0.0.1 nkieuulsvvjrfh.com
 127.0.0.1 nkindthatmade.xyz
 127.0.0.1 m.nkjfzq43034.cn
+127.0.0.1 nkjhcmlf.com
 127.0.0.1 nkljaxdeoygatfw.xyz
 127.0.0.1 nkmsite.com
 127.0.0.1 nkotpweuxq.xyz
@@ -64014,7 +64084,6 @@
 127.0.0.1 nonfictiontickle.com
 127.0.0.1 secure.nong3bram.com
 127.0.0.1 nongamemealman.guru
-127.0.0.1 nongzhifu.cn
 127.0.0.1 nonimoomi.com
 127.0.0.1 nonissue.com
 127.0.0.1 nonkads.com
@@ -64867,6 +64936,7 @@
 127.0.0.1 nynjiahyewoji.com
 127.0.0.1 hra.nyp.org
 127.0.0.1 t.nypost.com
+127.0.0.1 nyqpgzohhllvx.com
 127.0.0.1 nyrunxlffpy.com
 127.0.0.1 metrics.nysdot.gov
 127.0.0.1 stats.nytecomics.com
@@ -65077,6 +65147,7 @@
 127.0.0.1 trk.oberdorferpumps.com
 127.0.0.1 obeus.com
 127.0.0.1 obeyedortostr.cc
+127.0.0.1 obeyersshewn.com
 127.0.0.1 obeyfreelanceloan.com
 127.0.0.1 obeysatman.com
 127.0.0.1 obhggjchjkpb.xyz
@@ -65216,6 +65287,7 @@
 127.0.0.1 m.ocenp.com
 127.0.0.1 ocfhdcmwekmjf.com
 127.0.0.1 ocflkcgwjem.com
+127.0.0.1 ocggec.xyz
 127.0.0.1 tr.serviceclient.ochauffage.fr
 127.0.0.1 ochaugly.net
 127.0.0.1 ochbegja.com
@@ -65502,6 +65574,8 @@
 127.0.0.1 ogrrmasukq.com
 127.0.0.1 ogt.jp
 127.0.0.1 ogtakvkpoaxt.com
+127.0.0.1 ogury.co
+127.0.0.1 ogury.com
 127.0.0.1 ogvkyxx.com
 127.0.0.1 ogwmubfnjbzyo.com
 127.0.0.1 ogwnjcumfbgm.com
@@ -65619,6 +65693,7 @@
 127.0.0.1 pd.ok365.com
 127.0.0.1 www.ok365.com
 127.0.0.1 ok365.com
+127.0.0.1 ok8867s.com
 127.0.0.1 okaks.com
 127.0.0.1 a8clk.okamoto-homelife.com
 127.0.0.1 a8.okamotogroup.com
@@ -65694,6 +65769,7 @@
 127.0.0.1 okunyox.com
 127.0.0.1 okupsudd.work
 127.0.0.1 a8clk.okuta.com
+127.0.0.1 okvatbotgacv.com
 127.0.0.1 okvovqrfuc.com
 127.0.0.1 okwan.cn
 127.0.0.1 dwa.okwan.cn
@@ -66058,6 +66134,7 @@
 127.0.0.1 a8.ones-ones.jp
 127.0.0.1 oneselfindicaterequest.com
 127.0.0.1 mo.oneshouyou.cn
+127.0.0.1 onesignal.com
 127.0.0.1 onesocailse.com
 127.0.0.1 onesoft.im
 127.0.0.1 onespot.com
@@ -66875,6 +66952,7 @@
 127.0.0.1 metrics.orlandofuntickets.com
 127.0.0.1 smetrics.orlandofuntickets.com
 127.0.0.1 starget.orlandofuntickets.com
+127.0.0.1 orlcasablanca.com
 127.0.0.1 orldwhoisquite.com
 127.0.0.1 orldwhoisquite.org
 127.0.0.1 orldwhoisquiteh.info
@@ -67106,6 +67184,7 @@
 127.0.0.1 oulrukry.xyz
 127.0.0.1 oulsools.com
 127.0.0.1 oulukdliketo.shop
+127.0.0.1 oumpashy.net
 127.0.0.1 oumtirsu.com
 127.0.0.1 xhxmhs.ounass.ae
 127.0.0.1 ouncillorswhow.info
@@ -67159,6 +67238,7 @@
 127.0.0.1 ourteeko.com
 127.0.0.1 ourtetotum.com
 127.0.0.1 ourtopstories.com
+127.0.0.1 ourtshipanditlas.info
 127.0.0.1 s.ourwindsor.ca
 127.0.0.1 ouryretyequire.info
 127.0.0.1 ouryretyequirem.info
@@ -67494,7 +67574,6 @@
 127.0.0.1 oysterexhalereview.com
 127.0.0.1 oyugspe.cn
 127.0.0.1 osuwzo.oyunfor.com
-127.0.0.1 oyvyxj.cn
 127.0.0.1 oyxctgotabvk.com
 127.0.0.1 oyxp.xyz
 127.0.0.1 oyyihttyklfwcgy.xyz
@@ -67754,6 +67833,7 @@
 127.0.0.1 paletteoverjoyed.com
 127.0.0.1 marketing-us.palettesoftware.com
 127.0.0.1 marketing.palettesoftware.com
+127.0.0.1 palharesinformatica.com.br
 127.0.0.1 palibs.tech
 127.0.0.1 paliglaiks.life
 127.0.0.1 ahngxh.palladiumhotelgroup.com
@@ -67894,6 +67974,8 @@
 127.0.0.1 pangintrigueliquidate.com
 127.0.0.1 analytics.pangle-ads.com
 127.0.0.1 pangoha.xyz
+127.0.0.1 pangolin-dsp-toutiao-b.com
+127.0.0.1 pangolin-dsp-toutiao.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 api-access.pangolin-sdk-toutiao-b.com
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
@@ -67920,6 +68002,8 @@
 127.0.0.1 metric.panpacific.com
 127.0.0.1 smetric.panpacific.com
 127.0.0.1 panpant.xyz
+127.0.0.1 panplayable-toutiao-b.com
+127.0.0.1 panplayable-toutiao.com
 127.0.0.1 25ix8gm8ien.sandbox.panprices.com
 127.0.0.1 gl5g98t0vfjb.panprices.com
 127.0.0.1 c.panqis.cn
@@ -67974,6 +68058,7 @@
 127.0.0.1 paradocs.ru
 127.0.0.1 paradoxfactor.com
 127.0.0.1 trk.paragondirect.com
+127.0.0.1 paragraphopera.com
 127.0.0.1 info.parallel6.com
 127.0.0.1 parallelbulb.com
 127.0.0.1 parallelsdesktop.cn
@@ -68257,6 +68342,7 @@
 127.0.0.1 paubaulo.com
 127.0.0.1 paucityirido.space
 127.0.0.1 pauewr4cw2xs5q.com
+127.0.0.1 paughtyrostrum.com
 127.0.0.1 pauhoano.com
 127.0.0.1 paujudih.xyz
 127.0.0.1 fjdzgn.paulfredrick.com
@@ -68347,6 +68433,7 @@
 127.0.0.1 pazz.xyz
 127.0.0.1 pazzfun.com
 127.0.0.1 fufbgj.pazzo.com.tw
+127.0.0.1 pbacijttzozq.com
 127.0.0.1 smetrics.pbainfo.org
 127.0.0.1 pbamjgga.com
 127.0.0.1 pbbl.co
@@ -68526,6 +68613,7 @@
 127.0.0.1 pdygfdtghcyh.com
 127.0.0.1 smetrics.pe.com
 127.0.0.1 hd.pe.fr
+127.0.0.1 ojang.pe.kr
 127.0.0.1 pe5a.top
 127.0.0.1 www.pe8.com
 127.0.0.1 pe8.com
@@ -68714,6 +68802,7 @@
 127.0.0.1 penglei.info
 127.0.0.1 pengobyzant.com
 127.0.0.1 pengpailm.online
+127.0.0.1 penguest.xyz
 127.0.0.1 smetrics.penguin.co.uk
 127.0.0.1 penheiressfundamental.com
 127.0.0.1 penholderlossfrontage.com
@@ -69146,6 +69235,9 @@
 127.0.0.1 pgjcbz.xyz
 127.0.0.1 pgjlctmswgnwf.com
 127.0.0.1 pglcyeawb.com
+127.0.0.1 pglstatp-sdk-toutiao.com
+127.0.0.1 pglstatp-snssdk-toutiao.com
+127.0.0.1 pglstatp-toutiao-b.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
@@ -69528,6 +69620,7 @@
 127.0.0.1 pictureturn.com
 127.0.0.1 sadbmetrics.pidecita.com
 127.0.0.1 pidurrmu.xyz
+127.0.0.1 pidzlp.xyz
 127.0.0.1 pie.net.pk
 127.0.0.1 m.pieaa.com
 127.0.0.1 a8x.piece-kaitori.jp
@@ -69567,6 +69660,7 @@
 127.0.0.1 www.pigvideo.cn
 127.0.0.1 pigvideo.com.cn
 127.0.0.1 www.pigvideo.com.cn
+127.0.0.1 cookie.pii.ai
 127.0.0.1 a.pikabu.ru
 127.0.0.1 aydtkb.pikabu.ru
 127.0.0.1 cs42.pikabu.ru
@@ -69768,6 +69862,7 @@
 127.0.0.1 pitawastarkani.com
 127.0.0.1 pitchedfurs.com
 127.0.0.1 pitchedgenuinevillain.com
+127.0.0.1 pitchedvalleyspageant.com
 127.0.0.1 marketing.pitcher-nsw.com.au
 127.0.0.1 mp.pitchero.com
 127.0.0.1 pitcherprobable.com
@@ -70284,6 +70379,7 @@
 127.0.0.1 pnperf.com
 127.0.0.1 pnpmreuwqv.xyz
 127.0.0.1 pnrblholty.com
+127.0.0.1 pns.org.pk
 127.0.0.1 pnsqsv.com
 127.0.0.1 pnstat.com
 127.0.0.1 pntra.com
@@ -70310,7 +70406,6 @@
 127.0.0.1 poavoabe.net
 127.0.0.1 pobliba.info
 127.0.0.1 pobrpr.xyz
-127.0.0.1 rr.pochengweiyuan.com
 127.0.0.1 pocitadlo.cz
 127.0.0.1 pocitadlo.sk
 127.0.0.1 click.pockee.com
@@ -70324,6 +70419,8 @@
 127.0.0.1 poclorcobxo.com
 127.0.0.1 a-m-s.poco.cn
 127.0.0.1 9jdq2a.poco.de
+127.0.0.1 cdn.pocoiq.cn
+127.0.0.1 oct.pocoiq.cn
 127.0.0.1 app.poconoraceway.com
 127.0.0.1 t.poconoraceway.com
 127.0.0.1 pocrd.cc
@@ -70401,7 +70498,6 @@
 127.0.0.1 poiseplato.com
 127.0.0.1 poisism.com
 127.0.0.1 poisonencouragement.com
-127.0.0.1 power.poisontoolz.com
 127.0.0.1 poiuy12.com
 127.0.0.1 poiwer.com
 127.0.0.1 pojihfnkbllg.net
@@ -71282,6 +71378,7 @@
 127.0.0.1 prfct.co
 127.0.0.1 prfctmney.com
 127.0.0.1 prftonnes.com
+127.0.0.1 prhbdkmdtobn.com
 127.0.0.1 prhphla.xyz
 127.0.0.1 prhzxq.com
 127.0.0.1 stats.pri.org
@@ -71497,7 +71594,6 @@
 127.0.0.1 productsup.com
 127.0.0.1 app.producttube.com
 127.0.0.1 communications.prodways.com
-127.0.0.1 proecologicsistem.com
 127.0.0.1 proeroclips.pro
 127.0.0.1 proetusbramble.com
 127.0.0.1 1.proewildfire.cn
@@ -71601,6 +71697,7 @@
 127.0.0.1 acton.prolabs.com
 127.0.0.1 prolatecyclus.com
 127.0.0.1 prolificdoerconcur.com
+127.0.0.1 owen.prolitteris.ch
 127.0.0.1 prolongdoadaptation.com
 127.0.0.1 tracker.prom.ua
 127.0.0.1 anmeldung.promatis.ch
@@ -72083,6 +72180,7 @@
 127.0.0.1 pto-slb-09.com
 127.0.0.1 ptoafauz.net
 127.0.0.1 ptoafteewhu.com
+127.0.0.1 ptoagnin.xyz
 127.0.0.1 ptoahaistais.com
 127.0.0.1 ptoajait.net
 127.0.0.1 ptoaltie.com
@@ -72573,6 +72671,7 @@
 127.0.0.1 pushypipe.com
 127.0.0.1 pushzolo.com
 127.0.0.1 pusishegre.com
+127.0.0.1 pussesmoile.com
 127.0.0.1 pussl3.com
 127.0.0.1 pussl48.com
 127.0.0.1 pussy-pics.net
@@ -72866,7 +72965,6 @@
 127.0.0.1 qaqqihlho.com
 127.0.0.1 tk.qare.fr
 127.0.0.1 qarewien.com
-127.0.0.1 qarsza.cn
 127.0.0.1 eco.qasdw3.xyz
 127.0.0.1 mvo.qasdw3.xyz
 127.0.0.1 qashbits.com
@@ -72889,6 +72987,7 @@
 127.0.0.1 m.qbenu.com
 127.0.0.1 qbhjokk.xyz
 127.0.0.1 qbhmz3.com
+127.0.0.1 qbhzghb.xyz
 127.0.0.1 qbjqpopv.com
 127.0.0.1 qbkvksakslhgek.com
 127.0.0.1 qblcyqgn.com
@@ -73027,6 +73126,7 @@
 127.0.0.1 qhlegkjlnmg.com
 127.0.0.1 top.h.qhmsg.com
 127.0.0.1 qhnwj.com
+127.0.0.1 qhocciks.com
 127.0.0.1 m.qhout.com
 127.0.0.1 c.qhruixin.cn
 127.0.0.1 v.qhruixin.cn
@@ -73133,7 +73233,6 @@
 127.0.0.1 m.qingzhencai.net
 127.0.0.1 qinjgh.icu
 127.0.0.1 qinkuai.top
-127.0.0.1 qinongyouxuan.cn
 127.0.0.1 qinvaris.com
 127.0.0.1 qiossrwine.xyz
 127.0.0.1 qipawjyjcukenb.com
@@ -73270,7 +73369,6 @@
 127.0.0.1 m.qneit.com
 127.0.0.1 qnfvojfkw.xyz
 127.0.0.1 qnhvvrpkus.com
-127.0.0.1 qnipkk.xyz
 127.0.0.1 qnjyeyc.com
 127.0.0.1 qnkqurpyntrs.xyz
 127.0.0.1 qnlranvabaqk.top
@@ -73460,6 +73558,7 @@
 127.0.0.1 adsfile.qq.com
 127.0.0.1 adsmind.apdcdn.tc.qq.com
 127.0.0.1 adsolution.imtt.qq.com
+127.0.0.1 adstestview.qq.com
 127.0.0.1 adv.app.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 android.rqd.qq.com
@@ -73502,6 +73601,7 @@
 127.0.0.1 mig.str.mdt.qq.com
 127.0.0.1 misc.wcd.qq.com
 127.0.0.1 monitor.qq.com
+127.0.0.1 mpush.qq.com
 127.0.0.1 mqqad.cs0309.html5.qq.com
 127.0.0.1 mqqad.html5.qq.com
 127.0.0.1 mqqadr.reader.qq.com
@@ -73524,6 +73624,7 @@
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 push.pgl.qq.com
+127.0.0.1 push.qq.com
 127.0.0.1 pvstat.html5.qq.com
 127.0.0.1 q.i.gdt.qq.com
 127.0.0.1 qqshow2-item.qq.com
@@ -73550,10 +73651,10 @@
 127.0.0.1 v6ii.gdt.qq.com
 127.0.0.1 vd.l.qq.com
 127.0.0.1 video.ureport.push.qq.com
-127.0.0.1 wap.mpush.qq.com
 127.0.0.1 video.wap.mpush.qq.com
 127.0.0.1 vr.gdt.qq.com
 127.0.0.1 w.l.qq.com
+127.0.0.1 wap.mpush.qq.com
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 wxa.wxs.qq.com
@@ -73590,6 +73691,7 @@
 127.0.0.1 qqguvmf.com
 127.0.0.1 qqhuhu.com
 127.0.0.1 qqied.xyz
+127.0.0.1 qqkkpos.com
 127.0.0.1 qqkzjpupluv.com
 127.0.0.1 qqlnvwjtjhve.com
 127.0.0.1 5.qqm98.com
@@ -73631,11 +73733,13 @@
 127.0.0.1 qreakingoutinteah.xyz
 127.0.0.1 qrirud.xyz
 127.0.0.1 qrius.me
+127.0.0.1 qrkhwe.xyz
 127.0.0.1 qrlsx.com
 127.0.0.1 qroagwadndwy.com
 127.0.0.1 qrprobopassor.com
 127.0.0.1 qrrqysjnwctp.xyz
 127.0.0.1 qrtjwa.cn
+127.0.0.1 qrttfmo.cn
 127.0.0.1 qrwkkcyih.xyz
 127.0.0.1 qrxmgfz.cn
 127.0.0.1 qrzlaatf.xyz
@@ -73651,7 +73755,6 @@
 127.0.0.1 qsjrovphsiybxc.com
 127.0.0.1 qslbahy.top
 127.0.0.1 qslkthj.com
-127.0.0.1 qsmdeyz.cn
 127.0.0.1 q.qsmdeyz.cn
 127.0.0.1 qsmsmahlrhop.com
 127.0.0.1 qsorirgzqw.com
@@ -73661,8 +73764,6 @@
 127.0.0.1 qsxptjxruxrttu.xyz
 127.0.0.1 qtbb6.com
 127.0.0.1 qtciam.xyz
-127.0.0.1 lsr62.qtd95fj.online
-127.0.0.1 qtd95fj.online
 127.0.0.1 qtejflbrrtesvk.com
 127.0.0.1 adlaunch.qtfm.cn
 127.0.0.1 qtienly.top
@@ -73976,7 +74077,6 @@
 127.0.0.1 ad.quwin.cn
 127.0.0.1 quwwa.top
 127.0.0.1 quxegtegmvlfln.com
-127.0.0.1 quxiangkeji.cn
 127.0.0.1 quxsiraqxla.com
 127.0.0.1 quxuejhcaz.com
 127.0.0.1 quxwpwcwmmx.xyz
@@ -74012,13 +74112,13 @@
 127.0.0.1 qwandly.top
 127.0.0.1 stats.qwant.com
 127.0.0.1 iadctest.qwapi.com
+127.0.0.1 qwapi.com
 127.0.0.1 qwbaiftlbfbnt.com
 127.0.0.1 qwdbsjnql.com
 127.0.0.1 qwerfdx.com
 127.0.0.1 qwertize.com
 127.0.0.1 qwerty24.net
 127.0.0.1 qwertytracks.com
-127.0.0.1 wpercent.qwertyuadf.com
 127.0.0.1 smtp.qwertzx.ru
 127.0.0.1 qwesaz.com
 127.0.0.1 qwhyldakamv.com
@@ -74081,7 +74181,6 @@
 127.0.0.1 qydrwhhk.xyz
 127.0.0.1 qyenlspei.com
 127.0.0.1 hades.qyer.com
-127.0.0.1 staging.qyh.co.ua
 127.0.0.1 qykvrcqk.com
 127.0.0.1 qykxyax.com
 127.0.0.1 qylgfuikc.com
@@ -74604,6 +74703,7 @@
 127.0.0.1 sc.rbos.com
 127.0.0.1 edeals.rbp.com
 127.0.0.1 rbrbr88p.cn
+127.0.0.1 rbrightscarletcl.info
 127.0.0.1 rbrv9.cn
 127.0.0.1 rbrvifibj.com
 127.0.0.1 metrics.droidsc.rbs.co.uk
@@ -74894,6 +74994,7 @@
 127.0.0.1 rebillsegomism.com
 127.0.0.1 rebindskayoes.com
 127.0.0.1 a8clk.www.rebo-success.co.jp
+127.0.0.1 reboot.show
 127.0.0.1 promo.reborncabinets.com
 127.0.0.1 rebrea.com
 127.0.0.1 rebrew-foofteen.com
@@ -75165,6 +75266,7 @@
 127.0.0.1 reenakun.com
 127.0.0.1 reenginee.club
 127.0.0.1 reephaus.com
+127.0.0.1 reepteen.com
 127.0.0.1 reerfdfgourgo.xyz
 127.0.0.1 reerfdfgourgoldpie.com
 127.0.0.1 api.rees46.com
@@ -75338,6 +75440,7 @@
 127.0.0.1 reitingi.lv
 127.0.0.1 gksqdt.reitmans.com
 127.0.0.1 reivereme.com
+127.0.0.1 reiwo-service.de
 127.0.0.1 rejco3.site
 127.0.0.1 rejdfa.com
 127.0.0.1 rejectfairies.com
@@ -75432,6 +75535,7 @@
 127.0.0.1 remarketingpixel.com
 127.0.0.1 remarketstats.com
 127.0.0.1 remarkinspector.com
+127.0.0.1 remasterprodelherskjs.com
 127.0.0.1 remaysky.com
 127.0.0.1 remedyabruptness.com
 127.0.0.1 remehealth.net
@@ -76514,6 +76618,7 @@
 127.0.0.1 rnfwyvgoxu.com
 127.0.0.1 rng-snp-003.com
 127.0.0.1 rnhqxh.com
+127.0.0.1 rnkzhsi.cn
 127.0.0.1 rnlabs.com
 127.0.0.1 rnldustal.com
 127.0.0.1 rnmd.net
@@ -76671,7 +76776,6 @@
 127.0.0.1 rodentscommise.life
 127.0.0.1 rodeopolice.com
 127.0.0.1 stats.roderickduenas.com
-127.0.0.1 rodhigital.com
 127.0.0.1 qifbmk.rodinnebaleni.cz
 127.0.0.1 rodirgix.com
 127.0.0.1 rodisons.site
@@ -77051,8 +77155,6 @@
 127.0.0.1 rsnjmocfenkewq.com
 127.0.0.1 rsodmwkxkioj.xyz
 127.0.0.1 sstats.rssc.com
-127.0.0.1 c.rssnzw.cn
-127.0.0.1 v.rssnzw.cn
 127.0.0.1 rsspump.com
 127.0.0.1 rssrqecohagbk.xyz
 127.0.0.1 rssxsjh.icu
@@ -77429,6 +77531,7 @@
 127.0.0.1 rydresa.info
 127.0.0.1 rydyvv.xyz
 127.0.0.1 rydzfldt.xyz
+127.0.0.1 ryeffwlcleer.com
 127.0.0.1 ryepublisher.com
 127.0.0.1 smetrics.ryka.com
 127.0.0.1 secure.ryke4peep.com
@@ -77454,6 +77557,7 @@
 127.0.0.1 rz261.cn
 127.0.0.1 rzaxroziwozq.com
 127.0.0.1 rzdedao.com
+127.0.0.1 rzfdbsn.cn
 127.0.0.1 rzflhxn.cn
 127.0.0.1 rzkphskfifmo.com
 127.0.0.1 rzneekilff.com
@@ -77508,6 +77612,7 @@
 127.0.0.1 m.s47e8.cn
 127.0.0.1 s4cp.xyz
 127.0.0.1 s4elk8ir1exrkc.com
+127.0.0.1 s4yxaqyq95.com
 127.0.0.1 m.s52dv.com
 127.0.0.1 s5ikadi.fun
 127.0.0.1 s5network1.com
@@ -77756,6 +77861,7 @@
 127.0.0.1 tracking.care.salinasvalleyhealth.com
 127.0.0.1 salivanmobster.com
 127.0.0.1 salleeairings.life
+127.0.0.1 sallespaid.com
 127.0.0.1 salletspluvian.com
 127.0.0.1 smetrics.salliemae.com
 127.0.0.1 sallyfundamental.com
@@ -77971,7 +78077,6 @@
 127.0.0.1 med.saphris.com
 127.0.0.1 meds.saphris.com
 127.0.0.1 med.saphrishcp.com
-127.0.0.1 sapiens-services.com
 127.0.0.1 detnmz.sapling.com
 127.0.0.1 stats.sapnininkas.com
 127.0.0.1 webstats.sapo.pt
@@ -78281,6 +78386,7 @@
 127.0.0.1 smtps.go.fr.scc.com
 127.0.0.1 sccpnd.xyz
 127.0.0.1 scdcd333.cn
+127.0.0.1 adstudio-assets.scdn.co
 127.0.0.1 scdng.com
 127.0.0.1 cdn.scdng.com
 127.0.0.1 metrics.sce.com
@@ -78559,7 +78665,6 @@
 127.0.0.1 sd01you.com
 127.0.0.1 sd2ua.icu
 127.0.0.1 eo.sdagxz.xyz
-127.0.0.1 eo.sdahxz.xyz
 127.0.0.1 m.sdaih.com
 127.0.0.1 sdaiv.com
 127.0.0.1 pm.sdaiv.com
@@ -78621,7 +78726,6 @@
 127.0.0.1 sdwbmqqluxiu.com
 127.0.0.1 www.sdxitong.com
 127.0.0.1 sdxitong.com
-127.0.0.1 ddos.sdxpay.cn
 127.0.0.1 sdxtxvq.com
 127.0.0.1 sdxzqec.xyz
 127.0.0.1 sdyongyan.com.cn
@@ -78886,6 +78990,7 @@
 127.0.0.1 stat.segitek.hu
 127.0.0.1 segment.com
 127.0.0.1 cdn-settings.segment.com
+127.0.0.1 cdn.segment.com
 127.0.0.1 mobile-service.segment.com
 127.0.0.1 segment.io
 127.0.0.1 segmentcoax.com
@@ -79079,6 +79184,7 @@
 127.0.0.1 sensor.org.ua
 127.0.0.1 sensorpluck.com
 127.0.0.1 sensorsdata.cn
+127.0.0.1 static.sensorsdata.cn
 127.0.0.1 sensorsmile.com
 127.0.0.1 sensualsheilas.com
 127.0.0.1 sensualtestresume.com
@@ -79470,7 +79576,6 @@
 127.0.0.1 shaggyaleswede.com
 127.0.0.1 shaggytank.com
 127.0.0.1 shahebso.com
-127.0.0.1 shahu66.com
 127.0.0.1 shaickox.com
 127.0.0.1 shaidolt.com
 127.0.0.1 shaihucmesa.com
@@ -79542,7 +79647,6 @@
 127.0.0.1 shapecomb.com
 127.0.0.1 shapelcounset.xyz
 127.0.0.1 shapeonefoldonefoldmagistrate.com
-127.0.0.1 xx.shaque.vip
 127.0.0.1 share.sharafdg.com
 127.0.0.1 share-server.com
 127.0.0.1 2yqcaqbfnv.nextgen.shareablee.com
@@ -79644,7 +79748,6 @@
 127.0.0.1 shaursar.net
 127.0.0.1 shauxeel.com
 127.0.0.1 shavopsi.xyz
-127.0.0.1 y.shavsl.com
 127.0.0.1 strack.shaw.ca
 127.0.0.1 shawashygy.com
 127.0.0.1 strack.shawdirect.ca
@@ -79790,12 +79893,12 @@
 127.0.0.1 metrics.shinseibank.com
 127.0.0.1 smetrics.shinseibank.com
 127.0.0.1 ebis-tracking.shinyokohama-beauty.com
+127.0.0.1 shinypond.com
 127.0.0.1 shinyspiesyou.com
 127.0.0.1 shinystat.com
 127.0.0.1 shinystat.it
 127.0.0.1 smetrics.shionogi.co.jp
 127.0.0.1 smetrics.shionogi.tv
-127.0.0.1 shipminttracking.net
 127.0.0.1 shipostrich.com
 127.0.0.1 marketing.shippers-supply.com
 127.0.0.1 shippinginsights.com
@@ -80267,6 +80370,7 @@
 127.0.0.1 smetricsqa.sierra.com
 127.0.0.1 sierrafoodcorp.com
 127.0.0.1 results.sierrapiedmont.com
+127.0.0.1 sierrasectormacaroni.com
 127.0.0.1 tracking.sierrawireless.com
 127.0.0.1 sieveallegeministry.com
 127.0.0.1 sievynaw.space
@@ -80459,13 +80563,18 @@
 127.0.0.1 wbapp.mobile.sina.cn
 127.0.0.1 2016.sina.cn
 127.0.0.1 adimg.mobile.sina.cn
+127.0.0.1 api.apps.sina.cn
 127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 dmp.sina.cn
 127.0.0.1 cm.dmp.sina.cn
+127.0.0.1 contentrecommend-out.mobile.sina.cn
 127.0.0.1 cre.dp.sina.cn
 127.0.0.1 dl.kjava.sina.cn
 127.0.0.1 mixers.sina.cn
+127.0.0.1 palmnews.sina.cn
 127.0.0.1 pay.mobile.sina.cn
 127.0.0.1 r.dmp.sina.cn
+127.0.0.1 sapi.sina.cn
 127.0.0.1 sax.mobile.sina.cn
 127.0.0.1 sax.sina.cn
 127.0.0.1 saxs.sina.cn
@@ -80477,6 +80586,8 @@
 127.0.0.1 wbclick.mobile.sina.cn
 127.0.0.1 wbpctips.mobile.sina.cn
 127.0.0.1 ads.sina.com
+127.0.0.1 atm.sina.com
+127.0.0.1 oascentral.sina.com
 127.0.0.1 pfpip.sina.com
 127.0.0.1 beacon.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -80513,12 +80624,15 @@
 127.0.0.1 dmp.sina.com.cn
 127.0.0.1 img.adbox.sina.com.cn
 127.0.0.1 img.amp.ad.sina.com.cn
+127.0.0.1 int.dpool.sina.com.cn
 127.0.0.1 interest.mix.sina.com.cn
+127.0.0.1 log.interest.mix.sina.com.cn
 127.0.0.1 m.beacon.sina.com.cn
 127.0.0.1 mg.games.sina.com.cn
 127.0.0.1 motu.p4p.sina.com.cn
 127.0.0.1 r.dmp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
+127.0.0.1 s.img.mix.sina.com.cn
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 sax2.sina.com.cn
 127.0.0.1 sax3.sina.com.cn
@@ -80533,8 +80647,12 @@
 127.0.0.1 saxs.sina.com.cn
 127.0.0.1 slog.sina.com.cn
 127.0.0.1 staticadm.leju.sina.com.cn
+127.0.0.1 woocall.sina.com.cn
 127.0.0.1 adimages.sina.com.hk
+127.0.0.1 oascentral.sina.com.hk
 127.0.0.1 s3.pfp.sina.net
+127.0.0.1 appgift.sinaapp.com
+127.0.0.1 appsupdate.sinaapp.com
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 d0.sinaimg.cn
 127.0.0.1 d1.sinaimg.cn
@@ -80546,6 +80664,7 @@
 127.0.0.1 seniorliving.sinairesidences.com
 127.0.0.1 rs.sinajs.cn
 127.0.0.1 newspush.sinajs.cn
+127.0.0.1 tjs.sjs.sinajs.cn
 127.0.0.1 37.sinawap.com
 127.0.0.1 73.sinawap.com
 127.0.0.1 sincalled.com
@@ -81025,6 +81144,7 @@
 127.0.0.1 slfindmarket.live
 127.0.0.1 slfpu.com
 127.0.0.1 slfsmf.com
+127.0.0.1 slfznewdii.com
 127.0.0.1 offer.slgnt.eu
 127.0.0.1 b.sli-spark.com
 127.0.0.1 slibb.xyz
@@ -81614,6 +81734,7 @@
 127.0.0.1 xhnt.snqrk.cn
 127.0.0.1 snrcdn.net
 127.0.0.1 snrcmgqe.com
+127.0.0.1 snrtbgm.com
 127.0.0.1 swa.snsbank.nl
 127.0.0.1 bds.snssdk.com
 127.0.0.1 extlog.snssdk.com
@@ -81632,6 +81753,7 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 gecko-hl.snssdk.com
 127.0.0.1 gecko-lq.snssdk.com
+127.0.0.1 i.snssdk.com
 127.0.0.1 ic.snssdk.com
 127.0.0.1 temai.snssdk.com
 127.0.0.1 toutiao-frontier.snssdk.com
@@ -81786,6 +81908,7 @@
 127.0.0.1 t.soec.ca
 127.0.0.1 a8.soelu.com
 127.0.0.1 utiq.soester-anzeiger.de
+127.0.0.1 soeverbabi.com
 127.0.0.1 a8cv.www.sofastyle.jp
 127.0.0.1 sofcryingfo.xyz
 127.0.0.1 sofcryingforanyt.com
@@ -82011,6 +82134,8 @@
 127.0.0.1 x1.go.sohu.com
 127.0.0.1 click.hd.sohu.com.cn
 127.0.0.1 pb.hd.sohu.com.cn
+127.0.0.1 643108e7617ef.cdn.sohucs.com
+127.0.0.1 e8aeb8bbdbbd7.cdn.sohucs.com
 127.0.0.1 sohulink.cc
 127.0.0.1 soiasjgtd.top
 127.0.0.1 soicos.com
@@ -82346,7 +82471,6 @@
 127.0.0.1 www.souid.com
 127.0.0.1 deep.souk.com.br
 127.0.0.1 gvxnff.soulara.com.au
-127.0.0.1 hf.soulplp.com
 127.0.0.1 soulsglovesacid.com
 127.0.0.1 links.soulsoftware.org
 127.0.0.1 soulsoul.xyz
@@ -82451,7 +82575,6 @@
 127.0.0.1 cacaca.sp96878.com
 127.0.0.1 lravwm.spa.cz
 127.0.0.1 spacash.com
-127.0.0.1 spaceframe.mobi.space-frame.co.za
 127.0.0.1 space-link.de
 127.0.0.1 branch.spaceback.me
 127.0.0.1 spacehits.net
@@ -82841,6 +82964,7 @@
 127.0.0.1 track.spothero.com
 127.0.0.1 pod.spoti.fi
 127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 bloodhound.spotify.com
 127.0.0.1 spotlessstamp.com
 127.0.0.1 muhttw.spotlightstores.com
 127.0.0.1 spotofspawn.com
@@ -82952,7 +83076,6 @@
 127.0.0.1 a.spv.se
 127.0.0.1 info.marketing.spxflow.com
 127.0.0.1 spyaiwvhfqmcy.xyz
-127.0.0.1 spydezgame.com
 127.0.0.1 spylees.com
 127.0.0.1 spylog.com
 127.0.0.1 spylog.ru
@@ -83093,6 +83216,7 @@
 127.0.0.1 tracking.ssab.jp
 127.0.0.1 tracking.ssab.nl
 127.0.0.1 tracking.ssab.se
+127.0.0.1 ssacdn.com
 127.0.0.1 ssancib.top
 127.0.0.1 daima.ssata.cn
 127.0.0.1 sscjchina.com.cn
@@ -83129,8 +83253,6 @@
 127.0.0.1 ssrj.net
 127.0.0.1 c.sss1989.com
 127.0.0.1 c.sssgao999.com
-127.0.0.1 c.sssgbw.cn
-127.0.0.1 v.sssgbw.cn
 127.0.0.1 branch.nc.mails.sssports.com
 127.0.0.1 dlqxtm.sssports.com
 127.0.0.1 link.em.sssports.com
@@ -84356,8 +84478,6 @@
 127.0.0.1 metrics.sun.com
 127.0.0.1 smetrics.sun.com
 127.0.0.1 asx.sunaviat.com
-127.0.0.1 flex.sunaviat.com
-127.0.0.1 stop.sunaviat.com
 127.0.0.1 sunbowskraal.com
 127.0.0.1 a8clk.info2.sunbridge.com
 127.0.0.1 tdep.suncamp.be
@@ -84731,6 +84851,7 @@
 127.0.0.1 svivqrhrh.ru
 127.0.0.1 svkmxwssih.com
 127.0.0.1 svlu.net
+127.0.0.1 svncowt.cn
 127.0.0.1 svntrk.com
 127.0.0.1 ssc.svoboda.org
 127.0.0.1 ssc.svobodnaevropa.bg
@@ -84972,7 +85093,6 @@
 127.0.0.1 syjkscy.cn
 127.0.0.1 sykfmgu.com
 127.0.0.1 sykojkqjygahl.com
-127.0.0.1 dota.sykty.com
 127.0.0.1 sm.sylectus.com
 127.0.0.1 hi.syllable.ai
 127.0.0.1 syllableliking.com
@@ -85147,6 +85267,7 @@
 127.0.0.1 szmdp.cn
 127.0.0.1 szmkr.cn
 127.0.0.1 szmmb.cn
+127.0.0.1 szmnd.cn
 127.0.0.1 szmnf.cn
 127.0.0.1 szmns.cn
 127.0.0.1 szmpc.cn
@@ -85170,12 +85291,10 @@
 127.0.0.1 szqxvo.com
 127.0.0.1 szsbiw.xyz
 127.0.0.1 www.szshouzhai.com
-127.0.0.1 szwjzl.cn
 127.0.0.1 www.szxc868.com
 127.0.0.1 ssh.szxiuchang.com
 127.0.0.1 dtlog.szy.cn
 127.0.0.1 www.szyr474.com
-127.0.0.1 m.szyuke.cn
 127.0.0.1 rsas.szzek.com
 127.0.0.1 szzhwaaxhnnrx.com
 127.0.0.1 t-analytics.com
@@ -85362,6 +85481,7 @@
 127.0.0.1 log.tagtic.cn
 127.0.0.1 adlog.tagtic.cn
 127.0.0.1 adopt-sdk.xg.tagtic.cn
+127.0.0.1 xy-log.tagtic.cn
 127.0.0.1 xy-log2.tagtic.cn
 127.0.0.1 news.tagtoo.co
 127.0.0.1 tagun.xyz
@@ -85524,7 +85644,6 @@
 127.0.0.1 tamperstationerycultivate.com
 127.0.0.1 tampinbecker.com
 127.0.0.1 tampvhio.com
-127.0.0.1 tan1dian.com
 127.0.0.1 img.tan5858.com
 127.0.0.1 maccms.tan5858.com
 127.0.0.1 now.tana.fi
@@ -85602,6 +85721,7 @@
 127.0.0.1 toruk.tanx.com
 127.0.0.1 tanzhen.info
 127.0.0.1 a6.taobanapp.com
+127.0.0.1 rj.m.taobao.co
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adashx.m.taobao.com
@@ -85617,20 +85737,32 @@
 127.0.0.1 adash-c.m.taobao.com
 127.0.0.1 adash-c.ut.taobao.com
 127.0.0.1 adashbc.m.taobao.com
+127.0.0.1 adashx4ae.ut.taobao.com
+127.0.0.1 adsh.m.taobao.com
+127.0.0.1 agoodm.m.taobao.com
+127.0.0.1 agoodm.wapa.taobao.com
 127.0.0.1 ai.m.taobao.com
 127.0.0.1 ai.taobao.com
+127.0.0.1 api.wapa.taobao.com
+127.0.0.1 api.waptest.taobao.com
+127.0.0.1 apoll.m.taobao.com
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 c-adash.m.taobao.com
 127.0.0.1 click.mz.simba.taobao.com
 127.0.0.1 click.tz.simba.taobao.com
 127.0.0.1 dsp.simba.taobao.com
 127.0.0.1 fav.simba.taobao.com
+127.0.0.1 ff.win.taobao.com
 127.0.0.1 g.click.taobao.com
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h-adashx4yt.ut.taobao.com
+127.0.0.1 intl.wapa.taobao.com
+127.0.0.1 intl.waptest.taobao.com
 127.0.0.1 m-adash.m.taobao.com
+127.0.0.1 m.intl.taobao.com
 127.0.0.1 m.simba.taobao.com
 127.0.0.1 mclick.simba.taobao.com
+127.0.0.1 nbsdk-baichuan.taobao.com
 127.0.0.1 openjmacs.m.taobao.com
 127.0.0.1 pindao.huoban.taobao.com
 127.0.0.1 re.m.taobao.com
@@ -85645,17 +85777,21 @@
 127.0.0.1 sjarvis.taobao.com
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 stat.simba.taobao.com
+127.0.0.1 tejia.taobao.com
 127.0.0.1 temai.taobao.com
 127.0.0.1 textlink.simba.taobao.com
 127.0.0.1 tyh.taobao.com
 127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 umengjmacs.m.taobao.com
+127.0.0.1 w.m.taobao.com
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 ip.taobao.com
 127.0.0.1 accscdn.m.taobao.com
 127.0.0.1 acs.wapa.taobao.com
 127.0.0.1 v6-adashx.ut.taobao.com
 127.0.0.1 wcp.taobao.com
+127.0.0.1 hz.pre.tbusergw.taobao.net
+127.0.0.1 hz.tbusergw.taobao.net
 127.0.0.1 taobaoad.com
 127.0.0.1 www.taobaobo5.com
 127.0.0.1 strip.taobaocdn.com
@@ -85717,6 +85853,7 @@
 127.0.0.1 a8.tapp-co.jp
 127.0.0.1 z3617cz9ep.fitness.tappbrothers.com
 127.0.0.1 track.tappx.com
+127.0.0.1 ssp.api.tappx.com
 127.0.0.1 taprtopcldfa.co
 127.0.0.1 taprtopcldfard.co
 127.0.0.1 taprtopcldfb.co
@@ -86007,6 +86144,7 @@
 127.0.0.1 site.tdk.com
 127.0.0.1 tracking.tdk.com
 127.0.0.1 tracking.tdk.com.cn
+127.0.0.1 tdljuuw.xyz
 127.0.0.1 tdmd.us
 127.0.0.1 tdoup.com
 127.0.0.1 e.tdoup.com
@@ -86441,7 +86579,6 @@
 127.0.0.1 www.tengyuncloud.cn
 127.0.0.1 m.tenh2.cn
 127.0.0.1 tenhousewife.com
-127.0.0.1 pan.tenire.com
 127.0.0.1 a8cv.tenishokunext.jp
 127.0.0.1 cv.tenjin.cc
 127.0.0.1 xscmzs.tenki.jp
@@ -86553,8 +86690,6 @@
 127.0.0.1 aa.tescomobile.com
 127.0.0.1 saa.tescomobile.com
 127.0.0.1 track.tesiteca.it
-127.0.0.1 app.tesla-alert.com
-127.0.0.1 auth.tesla-alert.com
 127.0.0.1 tpx.tesseradigital.com
 127.0.0.1 share-test.tessie.com
 127.0.0.1 share.tessie.com
@@ -86666,6 +86801,7 @@
 127.0.0.1 tracker.tgbus.com
 127.0.0.1 vista.tgbus.com
 127.0.0.1 vista.tgbusdata.cn
+127.0.0.1 tgccct.icu
 127.0.0.1 tgdaudience.com
 127.0.0.1 tgdopodk.com
 127.0.0.1 tgdyrtkjmbgimg.com
@@ -86679,8 +86815,6 @@
 127.0.0.1 tgjdbx.xyz
 127.0.0.1 tgknt.com
 127.0.0.1 tglyr.co
-127.0.0.1 c.tgslww.cn
-127.0.0.1 v.tgslww.cn
 127.0.0.1 tgsscmaxfi.com
 127.0.0.1 tgtag.io
 127.0.0.1 tgtmedia.com
@@ -86870,6 +87004,7 @@
 127.0.0.1 somni.thedarcyhotel.com
 127.0.0.1 app.thedealerapp.co.uk
 127.0.0.1 thedentadsi24.com
+127.0.0.1 thedoctorsgym.net
 127.0.0.1 aa.thedoctorstv.com
 127.0.0.1 saa.thedoctorstv.com
 127.0.0.1 news.thedolancompany.com
@@ -87561,7 +87696,6 @@
 127.0.0.1 tianjinblg.com
 127.0.0.1 user.tiankongzudui.com
 127.0.0.1 tianlaoyyds.com
-127.0.0.1 js.tianmel.xyz
 127.0.0.1 tianmidian.com
 127.0.0.1 cdn.tianmidian.com
 127.0.0.1 tiannbo.com
@@ -87853,7 +87987,6 @@
 127.0.0.1 tinkermockingmonitor.com
 127.0.0.1 tinkerwidth.com
 127.0.0.1 tinkletemporalbuy.com
-127.0.0.1 tinkshop.cn
 127.0.0.1 tinmanernst.com
 127.0.0.1 tinpotkyrios.life
 127.0.0.1 tinsus.com
@@ -87966,6 +88099,7 @@
 127.0.0.1 tizadumbed.com
 127.0.0.1 tizernet.com
 127.0.0.1 www.tj-cmys.com
+127.0.0.1 tjaard11.xyz
 127.0.0.1 tjappzvz.xyz
 127.0.0.1 tjavravj.com
 127.0.0.1 shj.tjawst.com
@@ -87983,6 +88117,7 @@
 127.0.0.1 tjnkrrygmgp.com
 127.0.0.1 tjnvqptv.com
 127.0.0.1 tjq.com
+127.0.0.1 tjqonline.cn
 127.0.0.1 tjuhdrm.com
 127.0.0.1 tjwrwhcdshb.xyz
 127.0.0.1 tjwzyjx.icu
@@ -88041,8 +88176,6 @@
 127.0.0.1 tlrkcj17.de
 127.0.0.1 plausible.app.tlschedule.com
 127.0.0.1 plausible.tlschedule.com
-127.0.0.1 c.tlscqw.cn
-127.0.0.1 v.tlscqw.cn
 127.0.0.1 baidu.tlssyg.com
 127.0.0.1 tltmjevd.xyz
 127.0.0.1 tltyygb.cn
@@ -88765,6 +88898,7 @@
 127.0.0.1 ad-ebis.toysub.jp
 127.0.0.1 a8cv.toysub.net
 127.0.0.1 tozoruaon.com
+127.0.0.1 tozqvor.com
 127.0.0.1 tozuoi.xyz
 127.0.0.1 tozwrqnq.xyz
 127.0.0.1 metrics.tp.edu.sg
@@ -89039,6 +89173,7 @@
 127.0.0.1 trafficundercontrol.com
 127.0.0.1 trafficwave.net
 127.0.0.1 trafficzap.com
+127.0.0.1 traffmgnt.name
 127.0.0.1 trafforsrv.com
 127.0.0.1 trafic.ro
 127.0.0.1 trafikkfondet.no
@@ -89502,6 +89637,7 @@
 127.0.0.1 trpohkfedwway.xyz
 127.0.0.1 trpool.org
 127.0.0.1 trpop.xyz
+127.0.0.1 trqwuvidegayhr.com
 127.0.0.1 trribbup.xyz
 127.0.0.1 trrmkzesvyqrary.com
 127.0.0.1 trrmmxjst.com
@@ -89710,6 +89846,7 @@
 127.0.0.1 e.tspric.cn
 127.0.0.1 contact.tsr-net.co.jp
 127.0.0.1 tsrrbok.com
+127.0.0.1 tsrvrr.xyz
 127.0.0.1 ma.tss.se
 127.0.0.1 tssandycateup.com
 127.0.0.1 tst14netreal.com
@@ -90273,7 +90410,6 @@
 127.0.0.1 tyhwheveeshngi.xyz
 127.0.0.1 tyifdiff.xyz
 127.0.0.1 tyingentered.com
-127.0.0.1 tyjryuk.cn
 127.0.0.1 tykor.net
 127.0.0.1 tylcpcikj.com
 127.0.0.1 tylfgkf.com
@@ -90314,8 +90450,6 @@
 127.0.0.1 tyrotation.com
 127.0.0.1 tyrsn6di.icu
 127.0.0.1 tyserving.com
-127.0.0.1 c.tysjkw.cn
-127.0.0.1 v.tysjkw.cn
 127.0.0.1 smetrics.tyson.com
 127.0.0.1 app.tysoncenter.com
 127.0.0.1 t.tysoncenter.com
@@ -90387,7 +90521,6 @@
 127.0.0.1 u1077.com
 127.0.0.1 u1099.com
 127.0.0.1 u1102.com
-127.0.0.1 u1557.com
 127.0.0.1 s.cdn.u17t.com
 127.0.0.1 tj.u17t.com
 127.0.0.1 u1trkqf.com
@@ -90401,7 +90534,6 @@
 127.0.0.1 v.u22l.cc
 127.0.0.1 u25011.com
 127.0.0.1 u25022.com
-127.0.0.1 u2676.com
 127.0.0.1 u26u.com
 127.0.0.1 u29qnuav3i6p.com
 127.0.0.1 u2tu4.icu
@@ -90426,7 +90558,6 @@
 127.0.0.1 u833ij.com
 127.0.0.1 u88.cn
 127.0.0.1 u8ad.com
-127.0.0.1 nzq5.u95ivu.xyz
 127.0.0.1 u97jr.xyz
 127.0.0.1 u9axpzf50.com
 127.0.0.1 uaaftpsy.com
@@ -90570,6 +90701,7 @@
 127.0.0.1 t.uclabruins.com
 127.0.0.1 elqview.uclahealth.org
 127.0.0.1 elqview2.uclahealth.org
+127.0.0.1 das-rpt-log.ucloud.cn
 127.0.0.1 uclrlydjewxcl.xyz
 127.0.0.1 ucocesisfulyly.info
 127.0.0.1 info.uconnhuskies.com
@@ -90884,7 +91016,6 @@
 127.0.0.1 uleringvoice.xyz
 127.0.0.1 ulesxbo.com
 127.0.0.1 ulexiteoutspit.com
-127.0.0.1 ulfex.cn
 127.0.0.1 ulfqakqfng.xyz
 127.0.0.1 ulink.cc
 127.0.0.1 c1.ulink.cc
@@ -91043,6 +91174,7 @@
 127.0.0.1 t.griztix.umt.edu
 127.0.0.1 app.umterps.com
 127.0.0.1 t.umterps.com
+127.0.0.1 log.umtrack.com
 127.0.0.1 umtrack.com
 127.0.0.1 www.umtrack.com
 127.0.0.1 umtrack0.com
@@ -91299,7 +91431,6 @@
 127.0.0.1 rcv.union-wifi.com
 127.0.0.1 union001.com
 127.0.0.1 union009.com
-127.0.0.1 js.union123.me
 127.0.0.1 union178.com
 127.0.0.1 union55.com
 127.0.0.1 marketing.unionbenefits.co.uk
@@ -91742,6 +91873,7 @@
 127.0.0.1 urbund.com
 127.0.0.1 urccncd.xyz
 127.0.0.1 service.urchin.com
+127.0.0.1 urchin.com
 127.0.0.1 urdant.com
 127.0.0.1 ssc.urduvoa.com
 127.0.0.1 urechar.com
@@ -91803,6 +91935,7 @@
 127.0.0.1 ssc.usagm.gov
 127.0.0.1 marketing.usailighting.com
 127.0.0.1 usailtuwhe.com
+127.0.0.1 usainoad.net
 127.0.0.1 t.usajaguars.com
 127.0.0.1 metrics.usana.com
 127.0.0.1 usancit.top
@@ -91924,6 +92057,7 @@
 127.0.0.1 uslphoctxrpwry.com
 127.0.0.1 uslsjwnk.xyz
 127.0.0.1 uslsxe.com
+127.0.0.1 usltmus.cn
 127.0.0.1 hcjpbc.usmagazine.com
 127.0.0.1 marketing.usmedequip.com
 127.0.0.1 metrics.catalog.usmint.gov
@@ -92134,7 +92268,6 @@
 127.0.0.1 uxpascal.com
 127.0.0.1 uxrdg.cn
 127.0.0.1 marketing.uxreactor.com
-127.0.0.1 uxsingh.com
 127.0.0.1 stats.uxtools.co
 127.0.0.1 uxtruz.xyz
 127.0.0.1 uxwkiyp.xyz
@@ -92979,11 +93112,13 @@
 127.0.0.1 m.vhuay.com
 127.0.0.1 vhutitpu.icu
 127.0.0.1 vhvmiinx.com
+127.0.0.1 vhvwlb.xyz
 127.0.0.1 vi-serve.com
 127.0.0.1 sorxyx.vi.nl
 127.0.0.1 viabagona.com
 127.0.0.1 smetrics.viabcp.com
 127.0.0.1 viableconferfitting.com
+127.0.0.1 viabookfree.com
 127.0.0.1 mpjtif.viabovag.nl
 127.0.0.1 saa.viacomcbspressexpress.com
 127.0.0.1 viaeatsdhpt.com
@@ -93866,7 +94001,6 @@
 127.0.0.1 vkanalytics.net
 127.0.0.1 vkarrc.com
 127.0.0.1 vkcdnservice.com
-127.0.0.1 vkengcivil.com.br
 127.0.0.1 vkezpstgtjxym.com
 127.0.0.1 vkfvrsgj.com
 127.0.0.1 vkgtrack.com
@@ -93898,6 +94032,7 @@
 127.0.0.1 vlitag.com
 127.0.0.1 vljjtj.xyz
 127.0.0.1 vlkkwxncamnq.com
+127.0.0.1 vlkxsrhi.com
 127.0.0.1 vllsour.com
 127.0.0.1 vlnk.me
 127.0.0.1 vlogexpert.com
@@ -94429,6 +94564,7 @@
 127.0.0.1 vsznywexf.com
 127.0.0.1 lti.cs.vt.edu
 127.0.0.1 vt894axs16.com
+127.0.0.1 vtabnalp.net
 127.0.0.1 join.vtail.co
 127.0.0.1 vtaos.lol
 127.0.0.1 vtaos.xyz
@@ -94607,7 +94743,6 @@
 127.0.0.1 vwtqjotm.com
 127.0.0.1 vwuyuahqf.com
 127.0.0.1 vwvjzd.xyz
-127.0.0.1 vx4n.icu
 127.0.0.1 vxdgsgdsvlwz.com
 127.0.0.1 vxdpmxw.xyz
 127.0.0.1 vxelkrhl.info
@@ -95655,6 +95790,7 @@
 127.0.0.1 dp.im.weibo.cn
 127.0.0.1 game.weibo.cn
 127.0.0.1 gw5.push.mcp.weibo.cn
+127.0.0.1 gw6.push.mcp.weibo.cn
 127.0.0.1 m.game.weibo.cn
 127.0.0.1 promote.biz.weibo.cn
 127.0.0.1 alitui.weibo.com
@@ -95663,12 +95799,14 @@
 127.0.0.1 adstrategy.biz.weibo.com
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 c.wcpt.biz.weibo.com
+127.0.0.1 click.uve.weibo.com
 127.0.0.1 game.weibo.com
 127.0.0.1 s.alitui.weibo.com
 127.0.0.1 sdkapp.uve.weibo.com
 127.0.0.1 tui.weibo.com
 127.0.0.1 vs.biz.weibo.com
 127.0.0.1 wbapp.uve.weibo.com
+127.0.0.1 zc.biz.weibo.com
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 fastimage.uve.weibo.com
 127.0.0.1 alitui.weibo.com.cn
@@ -95992,6 +96130,8 @@
 127.0.0.1 whatisnewappforyou.top
 127.0.0.1 whatisuptodaynow.com
 127.0.0.1 luumhi.whatonearthcatalog.com
+127.0.0.1 graph.whatsapp.com
+127.0.0.1 graph.whatsapp.net
 127.0.0.1 abmeldung.information.whatsappsim.de
 127.0.0.1 data.information.whatsappsim.de
 127.0.0.1 data.umfrage.whatsappsim.de
@@ -96458,6 +96598,7 @@
 127.0.0.1 smetrics.winc.com.au
 127.0.0.1 seniorliving.winchestergardens.com
 127.0.0.1 uroqgj.wind.it
+127.0.0.1 winderswonders.com
 127.0.0.1 marketing.windes.com
 127.0.0.1 windindelicateexclusive.com
 127.0.0.1 windingnegotiation.com
@@ -96706,6 +96847,7 @@
 127.0.0.1 stats.wisconsingenomics.org
 127.0.0.1 gtm.wise.com
 127.0.0.1 approach.wise1-golf.com
+127.0.0.1 wisealty.com
 127.0.0.1 stats.wisebox.co
 127.0.0.1 activity.wisepops.com
 127.0.0.1 tracking.wisepops.com
@@ -97635,6 +97777,7 @@
 127.0.0.1 marketing.wtcutrecht.nl
 127.0.0.1 dps.wtdtjs.com
 127.0.0.1 shzyjbr.wtdtjs.rocks
+127.0.0.1 ads.wteam.xyz
 127.0.0.1 wtfgep.xyz
 127.0.0.1 wtg-ads.com
 127.0.0.1 wthbjrj.com
@@ -97921,11 +98064,7 @@
 127.0.0.1 x800.top
 127.0.0.1 m.x81zw.com
 127.0.0.1 x8ad.com
-127.0.0.1 img.x937.xyz
-127.0.0.1 img.x959.xyz
 127.0.0.1 x95general.com
-127.0.0.1 img.x965.xyz
-127.0.0.1 img.x968.xyz
 127.0.0.1 x9socptyr.com
 127.0.0.1 img.xa9t.com
 127.0.0.1 xaajawwskkcnfuc.com
@@ -98122,6 +98261,7 @@
 127.0.0.1 rvitam.xenos.nl
 127.0.0.1 xenosmussal.com
 127.0.0.1 xenylclio.com
+127.0.0.1 xercgohmvtwapy.com
 127.0.0.1 deeplink.xeropan.com
 127.0.0.1 fcnqkw.xeroshoes.com
 127.0.0.1 grow.business.xerox.com
@@ -98193,17 +98333,20 @@
 127.0.0.1 collector.xhamster.com
 127.0.0.1 marine.xhamster.com
 127.0.0.1 port7.xhamster.com
+127.0.0.1 rockpoint.xhamster.com
 127.0.0.1 wonder.xhamster.com
 127.0.0.1 alaska.xhamster2.com
 127.0.0.1 brick.xhamster2.com
 127.0.0.1 collector.xhamster2.com
 127.0.0.1 marine.xhamster2.com
 127.0.0.1 port7.xhamster2.com
+127.0.0.1 rockpoint.xhamster2.com
 127.0.0.1 alaska.xhamster3.com
 127.0.0.1 brick.xhamster3.com
 127.0.0.1 collector.xhamster3.com
 127.0.0.1 marine.xhamster3.com
 127.0.0.1 port7.xhamster3.com
+127.0.0.1 rockpoint.xhamster3.com
 127.0.0.1 xhamstercams.com
 127.0.0.1 sc.xhbaihehang.com
 127.0.0.1 xhbheroq.xyz
@@ -98289,6 +98432,7 @@
 127.0.0.1 xiaomengquan.cn
 127.0.0.1 www.xiaomengquan.cn
 127.0.0.1 xiaomengxiong.com
+127.0.0.1 mistat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 ad.intl.xiaomi.com
 127.0.0.1 ad.xiaomi.com
@@ -98310,6 +98454,7 @@
 127.0.0.1 video.market.xiaomi.com
 127.0.0.1 a.market.xiaomi.com
 127.0.0.1 ad1.xiaomi.com
+127.0.0.1 admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 diagnosis.ad.xiaomi.com
@@ -98334,7 +98479,6 @@
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
-127.0.0.1 admob.xiaomi.com
 127.0.0.1 tz.sec.xiaomi.com
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 sentry.d.xiaomi.net
@@ -98483,7 +98627,6 @@
 127.0.0.1 xjakcitm.com
 127.0.0.1 xjappzvz.xyz
 127.0.0.1 conabi.xjditan.com
-127.0.0.1 click.xjfatm.top
 127.0.0.1 xjfbhxp.com
 127.0.0.1 xjjkjo.pw
 127.0.0.1 xjktawqrcaw.com
@@ -98515,10 +98658,12 @@
 127.0.0.1 xkfvvyjurlil.com
 127.0.0.1 xkjmjj.com
 127.0.0.1 xkjnvehk.com
-127.0.0.1 xkjxgt.com
+127.0.0.1 xklofoz.cn
 127.0.0.1 xkmwxwy.cn
+127.0.0.1 xknpkgomp.com
 127.0.0.1 xkpbcd.com
 127.0.0.1 m.xkqpco.com
+127.0.0.1 xkrnud.icu
 127.0.0.1 xksdqikwbwat.com
 127.0.0.1 xksqb.com
 127.0.0.1 m.xkunn.com
@@ -98649,7 +98794,6 @@
 127.0.0.1 xn--2qu92fhtx4ff.ink
 127.0.0.1 xn--2qu96gouvko1a.com
 127.0.0.1 xn--2qux23c9ziyrq.icu
-127.0.0.1 xn--2qux23confgml.club
 127.0.0.1 a802.xn--38jf6c4pa86a1dv833cexrb.com
 127.0.0.1 a803.xn--38jf6c4pa86a1dv833cexrb.com
 127.0.0.1 xn--521-x72fh66s.cn
@@ -98666,7 +98810,6 @@
 127.0.0.1 adbmetrics.xn--futuroenespaol-1nb.es
 127.0.0.1 xn--gmq238c5fy.com
 127.0.0.1 a8.xn--google-873exa8m6161dbbyb.net
-127.0.0.1 xn--gov-x68dy61b.shop
 127.0.0.1 a8cv.xn--hckxam3skb2412b1hxe.com
 127.0.0.1 a8cv.xn--hdks151yx96c.com
 127.0.0.1 reaonq.xn--hdks770u8f0a8dvzft.net
@@ -98688,8 +98831,6 @@
 127.0.0.1 xn--wxtr9fwyxk9c.club
 127.0.0.1 xn--wxtr9fwyxk9c.top
 127.0.0.1 xn--xhq9mt12cf5v.ink
-127.0.0.1 xn--xhq9mt12cf5v.shop
-127.0.0.1 xn--xhq9mt12cf5v.top
 127.0.0.1 xn--xhq9mt12cf5v.website
 127.0.0.1 a8.xn--y8jd4aybzqd.jp
 127.0.0.1 nope.xn--ygba1c.wtf
@@ -99164,7 +99305,6 @@
 127.0.0.1 a8cv.y-osohshiki.com
 127.0.0.1 a8clk.y-station.net
 127.0.0.1 y-track.com
-127.0.0.1 y2ax5.y0tf2wp.online
 127.0.0.1 smetrics.y108.ca
 127.0.0.1 m.y195j.cn
 127.0.0.1 y1jxiqds7v.com
@@ -99231,6 +99371,7 @@
 127.0.0.1 clicks.beap.bc.yahoo.com
 127.0.0.1 comet.yahoo.com
 127.0.0.1 doubleplay-conf-yql.media.yahoo.com
+127.0.0.1 ysm.yahoo.com
 127.0.0.1 js-apac-ss.ysm.yahoo.com
 127.0.0.1 locdrop.query.yahoo.com
 127.0.0.1 na.ads.yahoo.com
@@ -99449,7 +99590,6 @@
 127.0.0.1 ydhfvrug.xyz
 127.0.0.1 erwr.ydjskvpd.com
 127.0.0.1 ydmnlxtu.xyz
-127.0.0.1 uhfbncvzxasqwpolgkhbn.ydns.eu
 127.0.0.1 ydolhlwq.xyz
 127.0.0.1 ydonkuan.com
 127.0.0.1 ydqkorympskhbc.com
@@ -99589,6 +99729,7 @@
 127.0.0.1 ygfytomneijjj.com
 127.0.0.1 yglhcn.cn
 127.0.0.1 a8cv.ygm-clinic.or.jp
+127.0.0.1 ygmtex.com
 127.0.0.1 ygpd.wang
 127.0.0.1 xin.ygqczh.com
 127.0.0.1 e.ygqna.cn
@@ -99625,6 +99766,7 @@
 127.0.0.1 yhomrdh.com
 127.0.0.1 yhqukg.xyz
 127.0.0.1 yhrjmamaxni.com
+127.0.0.1 yhrvpvbcfbuj.com
 127.0.0.1 yhsdwjes.xyz
 127.0.0.1 yhtpsy8888.cc
 127.0.0.1 yhubsxmg.xyz
@@ -99770,7 +99912,6 @@
 127.0.0.1 yisheng120.info
 127.0.0.1 photo.yishuhuanbao.cn
 127.0.0.1 yistkechauk.org
-127.0.0.1 yitai001.com
 127.0.0.1 yitaopt.com
 127.0.0.1 www.yitaopt.com
 127.0.0.1 m.yitime.top
@@ -99795,6 +99936,7 @@
 127.0.0.1 yizhongyi.info
 127.0.0.1 p.yizuya.com
 127.0.0.1 u.yizuya.com
+127.0.0.1 jl3.yjaxa.top
 127.0.0.1 yjbdyjnctgj.top
 127.0.0.1 js.yjbys.com
 127.0.0.1 a.yjbys.com
@@ -99814,6 +99956,7 @@
 127.0.0.1 www.yjqiqi.com
 127.0.0.1 yjrchhgs.com
 127.0.0.1 yjrlciff.com
+127.0.0.1 shhs-ydd8x2.yjrmss.cn
 127.0.0.1 yjtag.jp
 127.0.0.1 yjuxkncvy.com
 127.0.0.1 yjvuthpuwrdmdt.xyz
@@ -100120,6 +100263,7 @@
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cad.youku.com
 127.0.0.1 ems.youku.com
+127.0.0.1 pl.youku.com
 127.0.0.1 hudong.pl.youku.com
 127.0.0.1 iyes.youku.com
 127.0.0.1 l.youku.com
@@ -100146,12 +100290,17 @@
 127.0.0.1 adx-open-service.youku.com
 127.0.0.1 bsv.atm.youku.com
 127.0.0.1 count.atm.youku.com
+127.0.0.1 das.api.youku.com
+127.0.0.1 das.mobile.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
 127.0.0.1 dmapp.youku.com
 127.0.0.1 gamex.mobile.youku.com
+127.0.0.1 guanggaoad.youku.com
 127.0.0.1 h-adashx.ut.youku.com
 127.0.0.1 html.atm.youku.com
+127.0.0.1 huodong.pl.youku.com
+127.0.0.1 huodong.vip.youku.com
 127.0.0.1 hz.youku.com
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 lvip.youku.com
@@ -100167,9 +100316,11 @@
 127.0.0.1 r.l.youku.com
 127.0.0.1 sdk.m.youku.com
 127.0.0.1 service.danmu.youku.com
+127.0.0.1 statis.api.3g.youku.com
 127.0.0.1 statis.mobile.youku.com
 127.0.0.1 tdrec.youku.com
 127.0.0.1 test.ott.youku.com
+127.0.0.1 test.sdk.m.youku.com
 127.0.0.1 v.l.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 val.api.youku.com
@@ -100406,7 +100557,6 @@
 127.0.0.1 yqlxwb.icu
 127.0.0.1 yqmxfz.com
 127.0.0.1 yqragd.com
-127.0.0.1 yqrta.xyz
 127.0.0.1 yqspiy.xyz
 127.0.0.1 yqxhslsqaqkbd.com
 127.0.0.1 photo.yqydjr.cn
@@ -100838,7 +100988,6 @@
 127.0.0.1 stat.zbii.com
 127.0.0.1 zbnfhsk.com
 127.0.0.1 sss.zbred.com
-127.0.0.1 zbsybh.cn
 127.0.0.1 zbvchabjbcj.com
 127.0.0.1 zbvhwaakws.com
 127.0.0.1 zbwowo.com
@@ -101269,7 +101418,6 @@
 127.0.0.1 g.zhoukaika.com
 127.0.0.1 zhould.com
 127.0.0.1 zhoz.com
-127.0.0.1 bd.zhpxkl.cn
 127.0.0.1 zhqmctfwip.com
 127.0.0.1 dam.zhqryw.cn
 127.0.0.1 zhrrzug.xyz
@@ -101501,7 +101649,6 @@
 127.0.0.1 r.zlongad.com
 127.0.0.1 s.zlongad.com
 127.0.0.1 zlp6s.pw
-127.0.0.1 j.zlszw.com
 127.0.0.1 zlvlciv.xyz
 127.0.0.1 zlx.com.br
 127.0.0.1 zlyhslx.icu
@@ -101958,7 +102105,6 @@
 127.0.0.1 zwnoeqzsuz.com
 127.0.0.1 zwovvjlbawao.top
 127.0.0.1 zwqzxh.com
-127.0.0.1 m.zwsteel.cn
 127.0.0.1 zwtssi.com
 127.0.0.1 zwuqvpi.com
 127.0.0.1 zwwlaasbezg.com
@@ -102020,6 +102166,8 @@
 127.0.0.1 zymerget.stream
 127.0.0.1 zymerget.win
 127.0.0.1 zymjzwyyjklb.top
+127.0.0.1 zynga.com
+127.0.0.1 zyngaplayersupport.com
 127.0.0.1 zypenetwork.com
 127.0.0.1 zypy2h6rgfux.com
 127.0.0.1 zypzzv.xyz
