@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240302023337
+#VER=20240305082707
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=102362
+#TOTAL_LINES=102359
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -34946,8 +34946,6 @@
 127.0.0.1 connect.facebook.com
 127.0.0.1 graph-fallback.facebook.com
 127.0.0.1 mqtt-mini.facebook.com
-127.0.0.1 star.c10r.facebook.com
-127.0.0.1 star.fallback.c10r.facebook.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 z-m-graph.facebook.com
 127.0.0.1 connect.facebook.net
@@ -41840,7 +41838,6 @@
 127.0.0.1 gvkqpogjqvni.com
 127.0.0.1 gvkzvgm.com
 127.0.0.1 gvmojhugkiud.com
-127.0.0.1 gvt1-cn.com
 127.0.0.1 gvyyhjyyfdgxij.xyz
 127.0.0.1 gvzsrqp.com
 127.0.0.1 gw-dv.vip
