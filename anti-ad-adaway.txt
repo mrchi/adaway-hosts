@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240511023450
+#VER=20240512194758
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=107094
+#TOTAL_LINES=107091
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -9806,7 +9806,6 @@
 127.0.0.1 proxy-mob-cld.alicdn.com
 127.0.0.1 strip.alicdn.com
 127.0.0.1 unidesk.alicdn.com
-127.0.0.1 httpdns.alicdn.com
 127.0.0.1 rd.alice.it
 127.0.0.1 a8.aliceandolivia.jp
 127.0.0.1 alidongxi.com
@@ -16516,7 +16515,6 @@
 127.0.0.1 line1-log.biligame.net
 127.0.0.1 bilingualfestive.com
 127.0.0.1 bilingualwalking.com
-127.0.0.1 mcdn.bilivideo.cn
 127.0.0.1 tentflooring.biljax.com
 127.0.0.1 bilkedsquit.com
 127.0.0.1 mhmetr.billabongstore.jp
@@ -55231,7 +55229,6 @@
 127.0.0.1 kuvoansub.com
 127.0.0.1 img.kuwanpx.com
 127.0.0.1 kuwhetsa.net
-127.0.0.1 deliver.kuwo.cn
 127.0.0.1 ecomgxh.kuwo.cn
 127.0.0.1 log.kuwo.cn
 127.0.0.1 log1.kuwo.cn
