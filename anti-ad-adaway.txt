@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240717023754
+#VER=20240718172853
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=108801
+#TOTAL_LINES=108806
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -2849,7 +2849,6 @@
 127.0.0.1 7lyonline.com
 127.0.0.1 7me0ssd6.de
 127.0.0.1 7mediaxx-ai.com
-127.0.0.1 7moor-fs1.com
 127.0.0.1 m.7n3e8o.com
 127.0.0.1 m.7nej2.com
 127.0.0.1 7nt9p4d4.de
@@ -8859,7 +8858,6 @@
 127.0.0.1 adthletic.com
 127.0.0.1 adthrive.com
 127.0.0.1 adreport.adtianmai.com
-127.0.0.1 https-filtering-check.adtidy.org
 127.0.0.1 adtilt.com
 127.0.0.1 adtimaserver.vn
 127.0.0.1 adtiming.com
@@ -18748,6 +18746,12 @@
 127.0.0.1 boostog.net
 127.0.0.1 share.boostorder.com
 127.0.0.1 polhvf.bootbarn.com
+127.0.0.1 bootcdn.cn
+127.0.0.1 www.bootcdn.cn
+127.0.0.1 bootcdn.net
+127.0.0.1 www.bootcdn.net
+127.0.0.1 bootcss.com
+127.0.0.1 www.bootcss.com
 127.0.0.1 bootharchie.com
 127.0.0.1 smetrics.boothehvac.com
 127.0.0.1 bootstrap-framework.org
@@ -29455,7 +29459,6 @@
 127.0.0.1 terms-drcn.platform.dbankcloud.cn
 127.0.0.1 weather-community-drcn.weather.dbankcloud.cn
 127.0.0.1 grs.dbankcloud.com
-127.0.0.1 oauth-login-drcn.platform.dbankcloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 m.dbaof.com
 127.0.0.1 dbaomgnsahy.com
@@ -43415,7 +43418,6 @@
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 imasdk.googleapis.com
-127.0.0.1 firebaseinstallations.googleapis.com
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 attributiontrackingga.googlecode.com
@@ -88963,6 +88965,10 @@
 127.0.0.1 static-cnt.bid
 127.0.0.1 static-sb.com
 127.0.0.1 static-srv.com
+127.0.0.1 staticfile.net
+127.0.0.1 www.staticfile.net
+127.0.0.1 staticfile.org
+127.0.0.1 www.staticfile.org
 127.0.0.1 px.staticfiles.at
 127.0.0.1 staticiv.com
 127.0.0.1 staticjs.cn
@@ -104795,7 +104801,6 @@
 127.0.0.1 xiaomengquan.cn
 127.0.0.1 www.xiaomengquan.cn
 127.0.0.1 xiaomengxiong.com
-127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 mistat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 ad.intl.xiaomi.com
