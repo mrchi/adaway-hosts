@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240723023818
+#VER=20240724123921
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=107479
+#TOTAL_LINES=107478
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -42977,7 +42977,6 @@
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 imasdk.googleapis.com
-127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 footprints-pa.googleapis.com
 127.0.0.1 attributiontrackingga.googlecode.com
 127.0.0.1 myscoop-tracking.googlecode.com
