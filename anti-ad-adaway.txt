@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240905023849
+#VER=20240906184229
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=106213
+#TOTAL_LINES=106211
 127.0.0.1 0008d6ba2e.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -85244,11 +85244,9 @@
 127.0.0.1 pb.i.sogou.com
 127.0.0.1 pb.sogou.com
 127.0.0.1 pcxzo.pluto.sogou.com
-127.0.0.1 shouji.sogou.com
 127.0.0.1 uranus.sogou.com
 127.0.0.1 vwhi.gou.sogou.com
 127.0.0.1 worldwide.sogou.com
-127.0.0.1 ws-keyboard.shouji.sogou.com
 127.0.0.1 wuliao.epro.sogou.com
 127.0.0.1 123.sogou.com
 127.0.0.1 a1click.cpc.sogou.com
