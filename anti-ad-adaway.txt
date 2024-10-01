@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20240929023933
+#VER=20241001081310
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105705
+#TOTAL_LINES=105704
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -70587,7 +70587,6 @@
 127.0.0.1 app.payon.mn
 127.0.0.1 epl.paypal-communication.com
 127.0.0.1 sstats.paypal-metrics.com
-127.0.0.1 c.paypal.com
 127.0.0.1 data.news.paypal.com
 127.0.0.1 data.service.paypal.com
 127.0.0.1 i.paypal.com
