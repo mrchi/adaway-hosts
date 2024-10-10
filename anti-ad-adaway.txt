@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20241008024203
+#VER=20241009133546
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=105993
+#TOTAL_LINES=106007
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -16931,6 +16931,7 @@
 127.0.0.1 bharalhallahs.com
 127.0.0.1 bharsilked.com
 127.0.0.1 bhartianteact.com
+127.0.0.1 sentry.bhbapp.cn
 127.0.0.1 bhcont.com
 127.0.0.1 bhcostefja.com
 127.0.0.1 bhcumsc.com
@@ -22386,6 +22387,7 @@
 127.0.0.1 china99315.cn
 127.0.0.1 bdjsfl.chinabig.com.cn
 127.0.0.1 adsys.chinacloudapp.cn
+127.0.0.1 pcmactivity.chinacloudsites.cn
 127.0.0.1 chinacontraryintrepid.com
 127.0.0.1 sq1.chinacsky.com
 127.0.0.1 sq2.chinacsky.com
@@ -40045,6 +40047,7 @@
 127.0.0.1 zxr.fzxrjx.com
 127.0.0.1 e.fzyda.com
 127.0.0.1 m.fzyda.com
+127.0.0.1 simulatelab-datasink.fzzixun.com
 127.0.0.1 g--o.info
 127.0.0.1 g-content.bi
 127.0.0.1 smetrics.g-shock.com
@@ -40650,6 +40653,9 @@
 127.0.0.1 geeksundigne.com
 127.0.0.1 link.sparrow.geekup.vn
 127.0.0.1 analytics.geekyminds.net
+127.0.0.1 cooper.geelark.cn
+127.0.0.1 datasink.geelark.cn
+127.0.0.1 datasink.geelark.com
 127.0.0.1 metrics.geelongadvertiser.com.au
 127.0.0.1 nsmetrics.geelongadvertiser.com.au
 127.0.0.1 geerairu.net
@@ -56901,6 +56907,7 @@
 127.0.0.1 linkexchange.com
 127.0.0.1 linkexchangers.net
 127.0.0.1 st.linkfire.com
+127.0.0.1 datasink.linkfox.com
 127.0.0.1 linkgrand.com
 127.0.0.1 linkhaitao.com
 127.0.0.1 linkifier.com
@@ -60540,7 +60547,9 @@
 127.0.0.1 report.meituan.com
 127.0.0.1 pubmsg.meituan.com
 127.0.0.1 analytics.meituan.net
+127.0.0.1 dreport.meituan.net
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
+127.0.0.1 babel-statistics-android.dreport.meituan.net
 127.0.0.1 xiuxiu.mobile.meitudata.com
 127.0.0.1 www.meitumq.com
 127.0.0.1 dc.meitustat.com
@@ -89880,6 +89889,7 @@
 127.0.0.1 ping.cloud.tencent.com
 127.0.0.1 sensors.cloud.tencent.com
 127.0.0.1 tpstelemetry.tencent.com
+127.0.0.1 report.meeting.tencent.com
 127.0.0.1 p.tencentmind.com
 127.0.0.1 tencentmind.com
 127.0.0.1 ad.tencentmusic.com
@@ -104537,6 +104547,7 @@
 127.0.0.1 v2-ad.video.yximgs.com
 127.0.0.1 v3-ad.video.yximgs.com
 127.0.0.1 js-ad.a.yximgs.com
+127.0.0.1 tob-tracker.yximgs.com
 127.0.0.1 yxjnzydc.com
 127.0.0.1 yxkbgg.xyz
 127.0.0.1 yxkfaskdaybakf.com
@@ -105236,6 +105247,9 @@
 127.0.0.1 bavvgo.zingat.com
 127.0.0.1 apps.zingeroo.com
 127.0.0.1 target.zinia.com
+127.0.0.1 datasink.ziniao.com
+127.0.0.1 logs-collect.ziniao.com
+127.0.0.1 test-cb-log.ziniao.com
 127.0.0.1 insights.zinio.com
 127.0.0.1 zinipx.xyz
 127.0.0.1 marketing.zinniawealth.com
