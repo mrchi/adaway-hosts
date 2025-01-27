@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250126023757
+#VER=20250126213037
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=97077
+#TOTAL_LINES=97076
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -19080,6 +19080,7 @@
 127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-alisc1.bytedance.com
 127.0.0.1 tnc3-bjlgy.bytedance.com
+127.0.0.1 mssdk-bu.bytedance.com
 127.0.0.1 p3-tt.byteimg.com
 127.0.0.1 p6-ad-sign.byteimg.com
 127.0.0.1 explore.bytelab.uk
@@ -58482,7 +58483,6 @@
 127.0.0.1 msre2lp.com
 127.0.0.1 msrehcmpeme.com
 127.0.0.1 msrvt.net
-127.0.0.1 mssdk-bu.bytedance.com
 127.0.0.1 mssheng.com
 127.0.0.1 mstrlytcs.com
 127.0.0.1 t.msubobcats.com
@@ -70131,6 +70131,7 @@
 127.0.0.1 tmeadbak.y.qq.com
 127.0.0.1 ugcup.music.qq.com
 127.0.0.1 ipv6.kg.qq.com
+127.0.0.1 log.node.minigame.qq.com
 127.0.0.1 wxaintpcos.wxqcloud.qq.com.cn
 127.0.0.1 dns.weixin.qq.com.cn
 127.0.0.1 qq167.com
@@ -89539,8 +89540,6 @@
 127.0.0.1 h5.vivo.com.cn
 127.0.0.1 browser.vivo.com.cn
 127.0.0.1 zhan.vivo.com.cn
-127.0.0.1 onewsvod.com
-127.0.0.1 yidianzixun.com
 127.0.0.1 vivocha.com
 127.0.0.1 tr.news.vivrecotesud.fr
 127.0.0.1 ea.vivus.es
