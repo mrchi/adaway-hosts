@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250311024229
+#VER=20250312183501
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=95071
+#TOTAL_LINES=95070
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -13189,7 +13189,6 @@
 127.0.0.1 idm.api.autohome.com.cn
 127.0.0.1 leads.api.autohome.com.cn
 127.0.0.1 leads.autohome.com.cn
-127.0.0.1 activity.app.autohome.com.cn
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 adproxy.autohome.com.cn
 127.0.0.1 alert.autohome.com.cn
