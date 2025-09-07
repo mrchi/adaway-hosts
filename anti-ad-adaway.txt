@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20250905024413
+#VER=20250906164248
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=101901
+#TOTAL_LINES=101900
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -42055,6 +42055,9 @@
 127.0.0.1 gvltrklny.xyz
 127.0.0.1 gvmajlcqbcq.xyz
 127.0.0.1 gvrfpmnggeva.xyz
+127.0.0.1 beacons.gvt2.com
+127.0.0.1 gvt2.com
+127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 gvtdzbtjjqchi.website
 127.0.0.1 gvvedashb6.fun
 127.0.0.1 gw-dv.vip
@@ -66667,10 +66670,6 @@
 127.0.0.1 img.oraohui.cn
 127.0.0.1 oraubsoux.net
 127.0.0.1 offline-adv.oray.com
-127.0.0.1 tk.oray.com
-127.0.0.1 sl-tk.oray.com
-127.0.0.1 sl-log.oray.net
-127.0.0.1 pubsub02.oray.net
 127.0.0.1 orb92.com
 127.0.0.1 orbengine.com
 127.0.0.1 orbicalrykes.com
