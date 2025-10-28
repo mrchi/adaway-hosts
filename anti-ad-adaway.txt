@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251026164551
+#VER=20251027194436
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=106043
+#TOTAL_LINES=106031
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -2193,8 +2193,6 @@
 127.0.0.1 www.51chumoping.com
 127.0.0.1 logs.51cto.com
 127.0.0.1 gg.51cto.com
-127.0.0.1 gg2.51cto.com
-127.0.0.1 gg3.51cto.com
 127.0.0.1 eef.51dmn.top
 127.0.0.1 ssf.51dmn.top
 127.0.0.1 ghghgf.51dongshi.com
@@ -42970,9 +42968,6 @@
 127.0.0.1 griwourtadoothe.net
 127.0.0.1 grizzledcourage.pro
 127.0.0.1 grjqvelblmzmu.website
-127.0.0.1 www.grjs01.com
-127.0.0.1 www.grjs02.com
-127.0.0.1 www.grjs06.com
 127.0.0.1 grknnolhmwypkn.com
 127.0.0.1 grmciysmhnyaj.site
 127.0.0.1 grmtas.com
@@ -46796,21 +46791,16 @@
 127.0.0.1 click.hunantv.com
 127.0.0.1 da.hunantv.com
 127.0.0.1 res.hunantv.com
-127.0.0.1 log.da.hunantv.com
 127.0.0.1 log.event.hunantv.com
 127.0.0.1 log.hunantv.com
 127.0.0.1 log.p2p.hunantv.com
-127.0.0.1 log.rc.hunantv.com
 127.0.0.1 log.so.hunantv.com
 127.0.0.1 log.v2.hunantv.com
 127.0.0.1 mobile.log.hunantv.com
 127.0.0.1 mp4.res.hunantv.com
 127.0.0.1 p2.hunantv.com
-127.0.0.1 player.log.hunantv.com
 127.0.0.1 v1.play.log.hunantv.com
 127.0.0.1 v1.res.log.hunantv.com
-127.0.0.1 v2.hd.log.hunantv.com
-127.0.0.1 v2.hdd.log.hunantv.com
 127.0.0.1 v2.log.hunantv.com
 127.0.0.1 v2.res.log.hunantv.com
 127.0.0.1 x.da.hunantv.com
@@ -53971,9 +53961,7 @@
 127.0.0.1 marketing.kingsiii.com
 127.0.0.1 abroad-ad.kingsoft-office-service.com
 127.0.0.1 bannera.kingsoft-office-service.com
-127.0.0.1 cloudservice12.kingsoft-office-service.com
 127.0.0.1 cloudservice13.kingsoft-office-service.com
-127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 cloudservice27.kingsoft-office-service.com
 127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 counter.kingsoft.com
