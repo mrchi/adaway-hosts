@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20251217025246
+#VER=20251217130309
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=106414
+#TOTAL_LINES=106413
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -88321,7 +88321,6 @@
 127.0.0.1 obs.system1onesource.com
 127.0.0.1 feppiu.systemaction.es
 127.0.0.1 systeme-business.online
-127.0.0.1 systeme.io
 127.0.0.1 forms.systeminetwork.com
 127.0.0.1 systemleadb.com
 127.0.0.1 marketing.systempavers.com
