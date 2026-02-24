@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260223025849
+#VER=20260223154158
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=113529
+#TOTAL_LINES=113528
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
 127.0.0.1 kwcscdn.000dn.com
@@ -80838,7 +80838,6 @@
 127.0.0.1 canvas-cdn.gdt.qq.com
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 commdata.v.qq.com
-127.0.0.1 d3g.qq.com
 127.0.0.1 data.qq.com
 127.0.0.1 detect.mb.qq.com
 127.0.0.1 dp3.qq.com
