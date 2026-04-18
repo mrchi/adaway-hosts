@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260417034201
+#VER=20260417131737
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=116043
+#TOTAL_LINES=116041
 127.0.0.1 000491b06a.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -94402,7 +94402,6 @@
 127.0.0.1 ss.sysad.cn
 127.0.0.1 ss.sysadult.cn
 127.0.0.1 metrics.sysco.com
-127.0.0.1 sysdig.com
 127.0.0.1 eloqua.syslog-ng.com
 127.0.0.1 plausible.sysloun.cz
 127.0.0.1 sysmeasuring.net
@@ -115768,7 +115767,6 @@
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 bd1.zuimeitianqi.com
 127.0.0.1 bd2.zuimeitianqi.com
-127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 hwad.zuimeitianqi.com
 127.0.0.1 stat.zuimeitianqi.com
 127.0.0.1 zuingdqirviqy.website
