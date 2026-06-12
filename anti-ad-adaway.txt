@@ -1,7 +1,7 @@
 #TITLE=anti-AD
-#VER=20260611050506
+#VER=20260611204435
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=111030
+#TOTAL_LINES=111029
 127.0.0.1 000491b06a.com
 127.0.0.1 000dn.com
 127.0.0.1 kwcdn.000dn.com
@@ -41005,7 +41005,6 @@
 127.0.0.1 smetrics.g-shock.com
 127.0.0.1 smetrics.g-shock.jp
 127.0.0.1 smetrics.g-tune.jp
-127.0.0.1 xyoss.g.com.cn
 127.0.0.1 g0-g3t-msg.net
 127.0.0.1 g0gr67p.de
 127.0.0.1 g10102301085.co
